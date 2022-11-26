@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-19 02:08:08
+# UPDATED: 2022-11-25 02:08:16
 # DOMAIN: 175
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37296
+# DOMAIN-SUFFIX: 37311
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 37625
+# TOTAL: 37640
 payload:
   - 'abematv.akamaized.net'
   - 'amp.akamaized.net'
@@ -461,6 +461,7 @@ payload:
   - '+.abcheadphones.com'
   - '+.abclider.com'
   - '+.abeatsbydrdre.com'
+  - '+.abema-tv.com'
   - '+.abema.io'
   - '+.abema.tv'
   - '+.aboluowang.com'
@@ -758,7 +759,6 @@ payload:
   - '+.alexanderstreet.com'
   - '+.alhs.link'
   - '+.alhs.xyz'
-  - '+.alipaymo.com'
   - '+.aliveipc.com'
   - '+.aliveitsm.com'
   - '+.aliveprofiler.com'
@@ -1464,6 +1464,7 @@ payload:
   - '+.azure-test.net'
   - '+.azure.net'
   - '+.azurecomcdn.net'
+  - '+.azurecomm.net'
   - '+.azurecontainer.io'
   - '+.azurecosmos.net'
   - '+.azurecosmosdb.com'
@@ -3062,6 +3063,7 @@ payload:
   - '+.cocktailsandcocktalk.com'
   - '+.cockyboys.com'
   - '+.code.org'
+  - '+.codeberg.org'
   - '+.codecademy.com'
   - '+.codeforaliving.io'
   - '+.codeforces.com'
@@ -3340,6 +3342,7 @@ payload:
   - '+.dazndn.com'
   - '+.dcard.io'
   - '+.dcard.link'
+  - '+.dcocsp.cn'
   - '+.dctbeatsbydre.com'
   - '+.dd-cdn.origin-apple.com.akadns.net'
   - '+.ddd-smart.net'
@@ -4711,6 +4714,7 @@ payload:
   - '+.femalefounderscomp.com'
   - '+.femalestars.com'
   - '+.femdomcc.net'
+  - '+.femscat.com'
   - '+.feook.com'
   - '+.ferabook.com'
   - '+.ferronetwork.com'
@@ -5613,6 +5617,7 @@ payload:
   - '+.gputechconf.cn'
   - '+.gputechconf.com'
   - '+.gr-assets.com'
+  - '+.grabhentai.com'
   - '+.grabpussy.com'
   - '+.gradeuptube.com'
   - '+.grafolio.com'
@@ -5902,6 +5907,7 @@ payload:
   - '+.herringnetwork.com'
   - '+.hetzner.cloud'
   - '+.hex.pm'
+  - '+.hexdocs.pm'
   - '+.heydoga.com'
   - '+.heydouga.com'
   - '+.hf-iphone.com'
@@ -7328,6 +7334,7 @@ payload:
   - '+.llnw.com'
   - '+.llnw.net'
   - '+.llnwi.net'
+  - '+.lmmbtc.com'
   - '+.lnstagram-help.com'
   - '+.loanbuilder.com'
   - '+.localbitcoinschain.com'
@@ -7681,6 +7688,7 @@ payload:
   - '+.mhshosting.com'
   - '+.mi9cdn.com'
   - '+.miamifintechfestival.com'
+  - '+.miaomwu.com'
   - '+.mickey.tv'
   - '+.mickybells.com'
   - '+.microbit.org'
@@ -9861,6 +9869,7 @@ payload:
   - '+.pushwoosh.com'
   - '+.pussy-pics.net'
   - '+.pussy3dporn.com'
+  - '+.pussyboy.net'
   - '+.pussymomsex.com'
   - '+.pussyporntubes.com'
   - '+.pussysexgames.com'
@@ -10534,6 +10543,7 @@ payload:
   - '+.shequ8.cam'
   - '+.shesfreaky.com'
   - '+.sheshaft.com'
+  - '+.shianyuanfang.com'
   - '+.shields.io'
   - '+.shikorina.net'
   - '+.shinhangmc.com'
@@ -10826,6 +10836,7 @@ payload:
   - '+.ssplive.pw'
   - '+.ssrcloud.org'
   - '+.ssrpass.pw'
+  - '+.sssins.com'
   - '+.ssx3.com'
   - '+.st.dl.bscstorage.net'
   - '+.st.dl.eccdnx.com'
@@ -11676,6 +11687,7 @@ payload:
   - '+.uwpcommunitytoolkit.com'
   - '+.uxxxporn.com'
   - '+.v-has.com'
+  - '+.v2ph.com'
   - '+.v2ray.cool'
   - '+.v7hds.com'
   - '+.v8.dev'
@@ -12904,6 +12916,7 @@ payload:
   - '+.youtubemp3.scriptscraft.com'
   - '+.youtubepp.com'
   - '+.youtubetool.com'
+  - '+.youwuss.com'
   - '+.youyoutube.com'
   - '+.youyu.services'
   - '+.ysporn.com'
@@ -12956,6 +12969,7 @@ payload:
   - '+.zettai-ero.com'
   - '+.zh.videosfilmsporno.com'
   - '+.zh99.net'
+  - '+.zhaimankan.com'
   - '+.zhainanjidi.xyz'
   - '+.zhainanjidid.top'
   - '+.zind.cloud'
@@ -13007,6 +13021,7 @@ payload:
   - '+.zopim.com'
   - '+.zqqpwz.com'
   - '+.zsh.org'
+  - '+.zteman.net'
   - '+.zuckerberg.com'
   - '+.zuckerberg.net'
   - '+.zwtvusa.com'
