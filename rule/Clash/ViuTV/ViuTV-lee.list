@@ -13,8 +13,6 @@ DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,viu.now.com
 DOMAIN-SUFFIX,viu.tv
-DOMAIN-SUFFIX,prd.jwpltx.com
-DOMAIN-SUFFIX,nowe.com
 PROCESS-NAME,com.viu.pad
 PROCESS-NAME,com.viu.phone
 PROCESS-NAME,com.vuclip.viu
