@@ -12,19 +12,19 @@ Netflix规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2022-11-19 02:08:29
+最后更新时间：2023-11-18 02:15:07
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 3  | 
 | DOMAIN-KEYWORD | 4  | 
-| DOMAIN-SUFFIX | 28  | 
-| IP-CIDR | 964  | 
+| DOMAIN-SUFFIX | 30  | 
+| IP-CIDR | 1059  | 
 | IP-CIDR6 | 4  | 
 | PROCESS-NAME | 1  | 
 | USER-AGENT | 1  | 
-| TOTAL | 1005  | 
+| TOTAL | 1102  | 
 
 
 ## Surge 
@@ -74,7 +74,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《Netflix》的数据来自以下链接，如与本项目的《Netflix》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/Netflix.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Netflix.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Optional/Netflix.list
@@ -82,6 +81,10 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/QiuSimons/Netflix_IP/master/getflix.txt
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/NetflixIP.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Netflix.yaml
+- https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rules/Netflix.list
+- https://rules.kr328.app/netflix.yaml
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/NetflixIP.yaml
+- https://ruleset.isagood.day/netflix.conf
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

@@ -12,17 +12,17 @@ Telegram规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2022-11-03 17:10:06
+最后更新时间：2023-10-29 02:12:23
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST-KEYWORD | 2  | 
-| HOST-SUFFIX | 19  | 
+| HOST-KEYWORD | 1  | 
+| HOST-SUFFIX | 21  | 
 | IP-ASN | 5  | 
-| IP-CIDR | 8  | 
+| IP-CIDR | 4  | 
 | IP6-CIDR | 4  | 
-| TOTAL | 38  | 
+| TOTAL | 35  | 
 
 
 ## QuantumultX 
@@ -67,8 +67,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《Telegram》的数据来自以下链接，如与本项目的《Telegram》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Telegram.list
-- https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/Telegram.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Telegram.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
 - https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/App/social/Telegram.list
@@ -85,6 +83,13 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Telegram.yaml
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Telegram.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Telegram.yaml
+- https://rules.kr328.app/telegram.yaml
+- https://ruleset.isagood.day/telegram.conf
+- https://ruleset.isagood.day/telegram_dc1.conf
+- https://ruleset.isagood.day/telegram_dc2.conf
+- https://ruleset.isagood.day/telegram_dc3.conf
+- https://ruleset.isagood.day/telegram_dc4.conf
+- https://ruleset.isagood.day/telegram_dc5.conf
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

@@ -1,15 +1,19 @@
 # NAME: Lan
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-03 17:10:13
-# HOST: 3
-# HOST-SUFFIX: 116
+# UPDATED: 2023-10-17 02:13:11
+# HOST: 7
+# HOST-SUFFIX: 121
 # IP-CIDR: 14
-# IP6-CIDR: 3
-# TOTAL: 136
+# IP6-CIDR: 4
+# TOTAL: 146
+HOST,asusrouter.com,Lan
+HOST,cp.cloudflare.com,Lan
+HOST,detectportal.firefox.com,Lan
 HOST,instant.arubanetworks.com,Lan
 HOST,router.asus.com,Lan
 HOST,setmeup.arubanetworks.com,Lan
+HOST,www.asusrouter.com,Lan
 HOST-SUFFIX,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa,Lan
 HOST-SUFFIX,0.in-addr.arpa,Lan
 HOST-SUFFIX,1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa,Lan
@@ -107,24 +111,29 @@ HOST-SUFFIX,99.100.in-addr.arpa,Lan
 HOST-SUFFIX,a.e.f.ip6.arpa,Lan
 HOST-SUFFIX,acl4.ssr,Lan
 HOST-SUFFIX,b.e.f.ip6.arpa,Lan
+HOST-SUFFIX,captive.apple.com,Lan
+HOST-SUFFIX,connectivitycheck.gstatic.com,Lan
 HOST-SUFFIX,d.f.ip6.arpa,Lan
 HOST-SUFFIX,hiwifi.com,Lan
 HOST-SUFFIX,home.arpa,Lan
 HOST-SUFFIX,leike.cc,Lan
 HOST-SUFFIX,localhost.ptlogin2.qq.com,Lan
 HOST-SUFFIX,localhost.sec.qq.com,Lan
-HOST-SUFFIX,miwifi.com,Lan
 HOST-SUFFIX,msftconnecttest.com,Lan
 HOST-SUFFIX,msftncsi.com,Lan
 HOST-SUFFIX,my.router,Lan
+HOST-SUFFIX,networkcheck.kde.org,Lan
 HOST-SUFFIX,p.to,Lan
 HOST-SUFFIX,peiluyou.com,Lan
 HOST-SUFFIX,phicomm.me,Lan
+HOST-SUFFIX,plex.direct,Lan
 HOST-SUFFIX,router.ctc,Lan
 HOST-SUFFIX,routerlogin.com,Lan
 HOST-SUFFIX,tendawifi.com,Lan
 HOST-SUFFIX,tplinkwifi.net,Lan
 HOST-SUFFIX,tplogin.cn,Lan
+HOST-SUFFIX,ts.net,Lan
+HOST-SUFFIX,wifi.cmcc,Lan
 HOST-SUFFIX,zte.home,Lan
 IP-CIDR,0.0.0.0/8,Lan
 IP-CIDR,10.0.0.0/8,Lan
@@ -140,6 +149,7 @@ IP-CIDR,198.18.0.0/15,Lan
 IP-CIDR,198.51.100.0/24,Lan
 IP-CIDR,203.0.113.0/24,Lan
 IP-CIDR,224.0.0.0/3,Lan
-IP6-CIDR,::1/128,Lan
+IP6-CIDR,::/127,Lan
 IP6-CIDR,fc00::/7,Lan
 IP6-CIDR,fe80::/10,Lan
+IP6-CIDR,ff00::/8,Lan

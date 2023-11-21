@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-03 17:11:06
-# DOMAIN: 18
-# DOMAIN-KEYWORD: 24
-# DOMAIN-SUFFIX: 829
-# IP-CIDR: 98
-# USER-AGENT: 6
-# TOTAL: 975
+# UPDATED: 2023-11-17 02:16:47
+# DOMAIN: 23
+# DOMAIN-KEYWORD: 22
+# DOMAIN-SUFFIX: 835
+# IP-CIDR: 93
+# USER-AGENT: 7
+# TOTAL: 980
 DOMAIN,addons.mozilla.org
 DOMAIN,amp-api.podcasts.apple.com
 DOMAIN,api.waqi.info
@@ -18,10 +18,15 @@ DOMAIN,az416426.vo.msecnd.net
 DOMAIN,az668014.vo.msecnd.net
 DOMAIN,beta.music.apple.com
 DOMAIN,books.apple.com
+DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,clubhouse.pubnubapi.com
 DOMAIN,disk.yandex.com
 DOMAIN,lab.skk.moe
 DOMAIN,ocsp.int-x3.letsencrypt.org
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
+DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN,search.yahoo.co.jp
 DOMAIN,tv.apple.com
 DOMAIN,voice.telephony.goog
@@ -41,6 +46,7 @@ DOMAIN-SUFFIX,adblockplus.org
 DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobedtm.com
+DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,aerisapi.com
 DOMAIN-SUFFIX,aex.com
 DOMAIN-SUFFIX,ahcdn.com
@@ -55,7 +61,6 @@ DOMAIN-SUFFIX,amazon.co
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazonaws.com
-DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,anaconda.com
 DOMAIN-SUFFIX,anchor.fm
 DOMAIN-SUFFIX,ancsconf.org
@@ -65,6 +70,7 @@ DOMAIN-SUFFIX,anthonycalzadilla.com
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,aolcdn.com
 DOMAIN-SUFFIX,apache.org
+DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,api.mixpanel.com
 DOMAIN-SUFFIX,api.termius.com
 DOMAIN-SUFFIX,apk-dl.com
@@ -92,6 +98,8 @@ DOMAIN-SUFFIX,badoo.com
 DOMAIN-SUFFIX,bandcamp.com
 DOMAIN-SUFFIX,bandisoft.com
 DOMAIN-SUFFIX,bandwagonhost.com
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,battlenet.com
 DOMAIN-SUFFIX,bbc.co
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbtoystore.com
@@ -118,6 +126,7 @@ DOMAIN-SUFFIX,bitmex.com
 DOMAIN-SUFFIX,bitshare.com
 DOMAIN-SUFFIX,bitstamp.net
 DOMAIN-SUFFIX,bittrex.com
+DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,blog.com
 DOMAIN-SUFFIX,blogcdn.com
 DOMAIN-SUFFIX,bloglovin.com
@@ -141,7 +150,6 @@ DOMAIN-SUFFIX,c-span.org
 DOMAIN-SUFFIX,cachefly.net
 DOMAIN-SUFFIX,castbox.fm
 DOMAIN-SUFFIX,cbc.ca
-DOMAIN-SUFFIX,cccat.io
 DOMAIN-SUFFIX,cdn.angruo.com
 DOMAIN-SUFFIX,cdn.segment.com
 DOMAIN-SUFFIX,cdnst.net
@@ -149,11 +157,13 @@ DOMAIN-SUFFIX,celestrak.com
 DOMAIN-SUFFIX,census.gov
 DOMAIN-SUFFIX,chalungu.cn
 DOMAIN-SUFFIX,change.org
+DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chaturbate.com
 DOMAIN-SUFFIX,chinadigitaltimes.net
 DOMAIN-SUFFIX,chinatimes.com
 DOMAIN-SUFFIX,cl.ly
 DOMAIN-SUFFIX,clien.net
+DOMAIN-SUFFIX,cloud.cupronickel.goog
 DOMAIN-SUFFIX,cloudcone.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudfront.net
@@ -176,7 +186,6 @@ DOMAIN-SUFFIX,conoha.jp
 DOMAIN-SUFFIX,content.office.net
 DOMAIN-SUFFIX,coursehero.com
 DOMAIN-SUFFIX,crisp.chat
-DOMAIN-SUFFIX,crittercism.com
 DOMAIN-SUFFIX,culturalspot.org
 DOMAIN-SUFFIX,culturedcode.com
 DOMAIN-SUFFIX,cygames.jp
@@ -206,6 +215,7 @@ DOMAIN-SUFFIX,discordstatus.com
 DOMAIN-SUFFIX,disq.us
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,disquscdn.com
+DOMAIN-SUFFIX,dler.io
 DOMAIN-SUFFIX,dlive.tv
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,dnsimple.com
@@ -381,8 +391,8 @@ DOMAIN-SUFFIX,liquid.com
 DOMAIN-SUFFIX,listennotes.com
 DOMAIN-SUFFIX,lithium.com
 DOMAIN-SUFFIX,littlehj.com
-DOMAIN-SUFFIX,livejasmin.com
 DOMAIN-SUFFIX,livestream.com
+DOMAIN-SUFFIX,liyuans.com
 DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,logmein.com
 DOMAIN-SUFFIX,m.me
@@ -419,6 +429,7 @@ DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,mvnrepository.com
 DOMAIN-SUFFIX,mycnnews.com
 DOMAIN-SUFFIX,myfontastic.com
+DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,myspace.com
 DOMAIN-SUFFIX,myspacecdn.com
 DOMAIN-SUFFIX,myteamspeak.com
@@ -558,7 +569,6 @@ DOMAIN-SUFFIX,sexinsex.net
 DOMAIN-SUFFIX,sgpstatp.com
 DOMAIN-SUFFIX,shadowsocks.org
 DOMAIN-SUFFIX,shadowverse.jp
-DOMAIN-SUFFIX,shazam.com
 DOMAIN-SUFFIX,shutterstock.com
 DOMAIN-SUFFIX,sidelinesnews.com
 DOMAIN-SUFFIX,signal.org
@@ -673,6 +683,7 @@ DOMAIN-SUFFIX,tokyocn.com
 DOMAIN-SUFFIX,tomshardware.com
 DOMAIN-SUFFIX,torcn.com
 DOMAIN-SUFFIX,torproject.org
+DOMAIN-SUFFIX,torrentmac.net
 DOMAIN-SUFFIX,torrentprivacy.com
 DOMAIN-SUFFIX,torrentproject.se
 DOMAIN-SUFFIX,torrentz.eu
@@ -863,7 +874,6 @@ DOMAIN-KEYWORD,avtb
 DOMAIN-KEYWORD,beetalk
 DOMAIN-KEYWORD,dlercloud
 DOMAIN-KEYWORD,dropbox
-DOMAIN-KEYWORD,duolingo
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,fbcdn
 DOMAIN-KEYWORD,instagram
@@ -873,7 +883,6 @@ DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,spotify
 DOMAIN-KEYWORD,telegram
-DOMAIN-KEYWORD,tesla
 DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,ttvnw
 DOMAIN-KEYWORD,twitter
@@ -885,6 +894,7 @@ USER-AGENT,PayPal*
 USER-AGENT,TikTok*
 USER-AGENT,WhatsApp*
 USER-AGENT,battleroyale*
+USER-AGENT,hearthstone*
 IP-CIDR,1.201.0.0/24
 IP-CIDR,101.32.118.0/23
 IP-CIDR,101.32.96.0/20
@@ -892,7 +902,6 @@ IP-CIDR,103.2.28.0/22
 IP-CIDR,103.246.56.0/22
 IP-CIDR,103.27.148.0/22
 IP-CIDR,103.4.96.0/22
-IP-CIDR,108.168.0.0/16
 IP-CIDR,109.239.140.0/24
 IP-CIDR,110.76.140.0/22
 IP-CIDR,113.61.104.0/22
@@ -912,8 +921,6 @@ IP-CIDR,125.6.149.0/24
 IP-CIDR,125.6.190.0/24
 IP-CIDR,129.134.0.0/17
 IP-CIDR,129.226.0.0/16
-IP-CIDR,13.251.24.0/24
-IP-CIDR,13.251.41.0/24
 IP-CIDR,13.32.0.0/15
 IP-CIDR,13.35.0.0/17
 IP-CIDR,147.92.128.0/17
@@ -922,7 +929,6 @@ IP-CIDR,157.240.0.0/17
 IP-CIDR,158.85.224.160/27
 IP-CIDR,158.85.46.128/27
 IP-CIDR,158.85.5.192/27
-IP-CIDR,17.252.156.0/23
 IP-CIDR,173.192.222.160/27
 IP-CIDR,173.192.231.32/27
 IP-CIDR,173.194.0.0/16
@@ -937,7 +943,6 @@ IP-CIDR,180.163.150.162/32
 IP-CIDR,180.163.150.34/32
 IP-CIDR,180.163.151.162/32
 IP-CIDR,180.163.151.34/32
-IP-CIDR,183.131.48.0/20
 IP-CIDR,184.173.128.0/17
 IP-CIDR,185.60.216.0/22
 IP-CIDR,185.76.151.0/24
@@ -975,7 +980,7 @@ IP-CIDR,54.230.156.0/22
 IP-CIDR,54.242.0.0/15
 IP-CIDR,54.93.0.0/16
 IP-CIDR,66.220.144.0/20
-IP-CIDR,69.171.0.0/16
+IP-CIDR,69.171.224.0/19
 IP-CIDR,69.63.176.0/20
 IP-CIDR,74.119.76.0/22
 IP-CIDR,74.125.0.0/16

@@ -12,15 +12,16 @@ DiscoveryPlus规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2022-11-03 17:11:06
+最后更新时间：2023-10-07 14:21:23
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
+| DOMAIN | 2  | 
 | DOMAIN-KEYWORD | 1  | 
 | DOMAIN-SUFFIX | 11  | 
 | USER-AGENT | 2  | 
-| TOTAL | 14  | 
+| TOTAL | 16  | 
 
 
 ## Shadowrocket 
@@ -69,6 +70,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/DiscoveryPlus.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/DiscoveryPlus.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/DiscoveryPlus.yaml
+- https://rules.kr328.app/discoveryplus.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

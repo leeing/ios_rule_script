@@ -12,13 +12,14 @@
 
 ## 规则统计
 
-最后更新时间：2022-11-03 17:08:09
+最后更新时间：2023-11-13 02:07:34
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
+| HOST | 1  | 
 | HOST-SUFFIX | 9  | 
-| TOTAL | 9  | 
+| TOTAL | 10  | 
 
 
 ## QuantumultX 
@@ -61,6 +62,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 《115》的数据来自以下链接，如与本项目的《115》规则混合使用，可能会造成规则大量重复。
 
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/115.list
+- https://rules.kr328.app/115.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

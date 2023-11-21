@@ -12,19 +12,19 @@ GlobalMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2022-11-18 02:08:24
+最后更新时间：2023-10-28 02:12:40
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST | 28  | 
-| HOST-KEYWORD | 22  | 
-| HOST-SUFFIX | 1067  | 
-| HOST-WILDCARD | 8  | 
+| HOST | 29  | 
+| HOST-KEYWORD | 25  | 
+| HOST-SUFFIX | 1096  | 
+| HOST-WILDCARD | 10  | 
 | IP-CIDR | 918  | 
 | IP6-CIDR | 6  | 
-| USER-AGENT | 56  | 
-| TOTAL | 2105  | 
+| USER-AGENT | 62  | 
+| TOTAL | 2146  | 
 
 
 ## QuantumultX 
@@ -62,17 +62,21 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 当前分流规则，未包含其他子规则。
 
+当前分流规则，已排除以下规则：
+| 排除规则  | 
+| ----  |
+| OpenAI  | 
+
 ## 数据来源
 
 《GlobalMedia》的数据来自以下链接，如与本项目的《GlobalMedia》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/GlobalMedia.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/connershua/Quantumult/X/Filter/ForeignMedia.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/GMedia.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Media/ForeignMedia.list
-- https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Media/ForeignMedia_New.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list
+- https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rules/GMedia.list
+- https://ruleset.isagood.day/stream.conf
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

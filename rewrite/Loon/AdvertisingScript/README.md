@@ -9,26 +9,38 @@
 所有数据均收集自互联网公开信息，不代表我们支持或使用这些服务。
 
 请通过【中华人民共和国 People's Republic of China】合法的互联网出入口信道访问规则中的相关服务，并确保在使用过程中符合相关法律法规。
-## 规则说明
-整合知乎 什么值得买APP去广告，及脚本去除开屏广告复写。
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2022-11-03 17:11:50
+=======
+最后更新时间：2023-10-07 14:23:39
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
+<<<<<<< HEAD
 | DOMAIN | 3  | 
 | IP-CIDR | 1  | 
 | IP-CIDR6 | 1  | 
+=======
+| DOMAIN | 5  | 
+>>>>>>> upstream/master
 | URL-REGEX | 4  | 
-| USER-AGENT | 1  | 
 | HTTP-REQUEST-SCRIPT | 1  | 
+<<<<<<< HEAD
 | HTTP-RESPONSE-SCRIPT | 28  | 
 | REJECT | 18  | 
 | MITM | 23  | 
 | TOTAL | 80  | 
+=======
+| HTTP-RESPONSE-SCRIPT | 24  | 
+| REJECT | 12  | 
+| MITM | 21  | 
+| TOTAL | 67  | 
+>>>>>>> upstream/master
 
 
 ## Loon 
@@ -67,9 +79,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《脚本去广告》的数据来自以下链接，如与本项目的《脚本去广告》规则混合使用，可能造成部分重写重复。
 
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_plus.lnplugin
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.lnplugin
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.sgmodule
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zheye/zheye.lnplugin
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.lnplugin
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

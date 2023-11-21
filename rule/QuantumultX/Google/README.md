@@ -15,18 +15,18 @@ Google规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2022-11-03 17:09:28
+最后更新时间：2023-11-08 02:11:05
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST | 13  | 
-| HOST-KEYWORD | 6  | 
-| HOST-SUFFIX | 710  | 
+| HOST | 170  | 
+| HOST-KEYWORD | 5  | 
+| HOST-SUFFIX | 724  | 
 | IP-CIDR | 4  | 
 | IP6-CIDR | 1  | 
 | USER-AGENT | 3  | 
-| TOTAL | 737  | 
+| TOTAL | 907  | 
 
 
 ## QuantumultX 
@@ -89,6 +89,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Google.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Google.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Google.yaml
+- https://rules.kr328.app/google-ads.yaml
+- https://rules.kr328.app/google.yaml
+- https://rules.kr328.app/google@ads.yaml
+- https://rules.kr328.app/google@cn.yaml
+- https://rules.kr328.app/google-ads@ads.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

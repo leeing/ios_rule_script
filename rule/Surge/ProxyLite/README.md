@@ -15,18 +15,18 @@ ProxyLite规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2022-11-03 17:11:05
+最后更新时间：2023-11-17 02:16:47
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 18  | 
-| DOMAIN-KEYWORD | 24  | 
-| DOMAIN-SUFFIX | 829  | 
-| IP-CIDR | 94  | 
+| DOMAIN | 23  | 
+| DOMAIN-KEYWORD | 22  | 
+| DOMAIN-SUFFIX | 835  | 
+| IP-CIDR | 89  | 
 | IP-CIDR6 | 4  | 
-| USER-AGENT | 6  | 
-| TOTAL | 975  | 
+| USER-AGENT | 7  | 
+| TOTAL | 980  | 
 
 
 ## Surge 
@@ -79,8 +79,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 | AppleMusic | AppleNews | AppleProxy | AppleTV | China  | 
 | ChinaIPs | Chromecast | FindMy | FitnessPlus | GitHub  | 
 | Google | GoogleDrive | GoogleSearch | GoogleVoice | Microsoft  | 
-| OneDrive | Siri | SystemOTA | Teams | TestFlight  | 
-| YouTube | YouTubeMusic | iCloud | iCloudPrivateRelay  |  | 
+| OneDrive | OpenAI | Siri | SystemOTA | Teams  | 
+| TestFlight | YouTube | YouTubeMusic | iCloud | iCloudPrivateRelay  | 
 
 ## 数据来源
 

@@ -12,14 +12,13 @@ Bahamut规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2022-11-03 17:10:09
+最后更新时间：2023-10-07 14:20:13
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 1  | 
 | DOMAIN-SUFFIX | 7  | 
-| TOTAL | 8  | 
+| TOTAL | 7  | 
 
 
 ## Clash 
@@ -64,11 +63,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《Bahamut》的数据来自以下链接，如与本项目的《Bahamut》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/Bahamut.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Bahamut.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/Bahamut.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bahamut.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Bahamut.yaml
+- https://rules.kr328.app/bahamut.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

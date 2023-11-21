@@ -2,7 +2,7 @@
 
 ## 前言
 
-![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) ![](https://shields.io/badge/-生成纯IPv4规则-89ed5d) 
+![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-生成纯IPv4规则-89ed5d) 
 
 ChinaIPsTest规则由《RULE GENERATOR 规则生成器》自动生成。
 
@@ -19,15 +19,15 @@ ChinaIPsTest规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2022-11-26 02:10:11
+最后更新时间：2023-11-21 02:16:02
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| IP-ASN | 932  | 
-| IP-CIDR | 6791  | 
-| IP6-CIDR | 4709  | 
-| TOTAL | 12432  | 
+| IP-ASN | 1009  | 
+| IP-CIDR | 15968  | 
+| IP6-CIDR | 4638  | 
+| TOTAL | 21615  | 
 
 
 ## QuantumultX 
@@ -73,7 +73,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《ChinaIPsTest》的数据来自以下链接，如与本项目的《ChinaIPsTest》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Domestic%20IPs.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/ChinaIP.list
 - https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/cncidr.txt
 - https://raw.githubusercontent.com/Hackl0us/GeoIP2-CN/release/CN-ip-cidr.txt
@@ -97,7 +96,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/unicom.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/unicom6.txt
 - https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Domestic%20IPs.yaml
-- https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/ruleset/ASN.China.list
+- https://raw.githubusercontent.com/missuo/ASN-China/main/ASN.China.list
+- https://raw.githubusercontent.com/missuo/ASN-China/main/IP.China.list
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

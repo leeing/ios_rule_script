@@ -12,14 +12,15 @@ GitHub规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2022-11-03 17:09:28
+最后更新时间：2023-10-07 14:17:48
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
+| HOST | 1  | 
 | HOST-KEYWORD | 1  | 
-| HOST-SUFFIX | 28  | 
-| TOTAL | 29  | 
+| HOST-SUFFIX | 29  | 
+| TOTAL | 31  | 
 
 
 ## QuantumultX 
@@ -64,6 +65,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Github.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Github.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Github.yaml
+- https://rules.kr328.app/github.yaml
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Github.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

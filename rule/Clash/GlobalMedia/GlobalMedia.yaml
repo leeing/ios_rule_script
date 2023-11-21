@@ -1,16 +1,16 @@
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-18 02:08:24
-# DOMAIN: 28
-# DOMAIN-KEYWORD: 22
-# DOMAIN-SUFFIX: 1067
+# UPDATED: 2023-10-28 02:12:40
+# DOMAIN: 29
+# DOMAIN-KEYWORD: 25
+# DOMAIN-SUFFIX: 1096
 # IP-CIDR: 918
 # IP-CIDR6: 6
-# PROCESS-NAME: 3
-# TOTAL: 2044
+# PROCESS-NAME: 13
+# TOTAL: 2087
 payload:
-  - DOMAIN-KEYWORD,-spotify-com
+  - DOMAIN-KEYWORD,-spotify-
   - DOMAIN-KEYWORD,abematv.akamaized.net
   - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
   - DOMAIN-KEYWORD,avoddashs
@@ -24,11 +24,14 @@ payload:
   - DOMAIN-KEYWORD,japronx
   - DOMAIN-KEYWORD,jooxweb-api
   - DOMAIN-KEYWORD,netflixdnstest
+  - DOMAIN-KEYWORD,nivod
   - DOMAIN-KEYWORD,nowtv100
+  - DOMAIN-KEYWORD,olevod
   - DOMAIN-KEYWORD,rthklive
   - DOMAIN-KEYWORD,spotify.com
-  - DOMAIN-KEYWORD,tiktokcdn-
+  - DOMAIN-KEYWORD,tiktokcdn
   - DOMAIN-KEYWORD,ttvnw
+  - DOMAIN-KEYWORD,tvbanywhere
   - DOMAIN-KEYWORD,uk-live
   - DOMAIN-KEYWORD,voddazn
   - DOMAIN-KEYWORD,youtube
@@ -414,7 +417,8 @@ payload:
   - IP-CIDR,203.198.80.0/21
   - IP-CIDR,203.211.4.169/32
   - IP-CIDR,203.211.4.193/32
-  - IP-CIDR,203.74.95.128/28
+  - IP-CIDR,203.74.95.131/32
+  - IP-CIDR,203.74.95.139/32
   - IP-CIDR,203.74.95.153/32
   - IP-CIDR,203.75.84.0/24
   - IP-CIDR,203.80.97.203/32
@@ -603,7 +607,6 @@ payload:
   - IP-CIDR,52.5.0.0/16
   - IP-CIDR,52.54.0.0/16
   - IP-CIDR,52.7.0.0/16
-  - IP-CIDR,52.71.0.0/16
   - IP-CIDR,52.72.0.0/16
   - IP-CIDR,52.88.0.0/15
   - IP-CIDR,54.0.0.0/16
@@ -956,6 +959,16 @@ payload:
   - IP-CIDR6,2620:120:e000::/40
   - IP-CIDR6,2a00:86c0::/32
   - IP-CIDR6,2a03:5640::/32
+  - PROCESS-NAME,com.amazon.avod.thirdpartyclient
+  - PROCESS-NAME,com.bstar.intl
+  - PROCESS-NAME,com.hulu.plus
+  - PROCESS-NAME,com.linecorp.linetv
+  - PROCESS-NAME,com.netflix.mediaclient
+  - PROCESS-NAME,com.tencent.ibg.joox
   - PROCESS-NAME,com.viu.pad
   - PROCESS-NAME,com.viu.phone
   - PROCESS-NAME,com.vuclip.viu
+  - PROCESS-NAME,com.wbd.stream
+  - PROCESS-NAME,music
+  - PROCESS-NAME,tv
+  - PROCESS-NAME,tv.twitch.android.app

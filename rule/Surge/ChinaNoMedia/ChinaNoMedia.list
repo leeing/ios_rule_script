@@ -1,15 +1,16 @@
 # NAME: ChinaNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-21 02:09:27
-# DOMAIN: 20
-# DOMAIN-KEYWORD: 10
-# DOMAIN-SUFFIX: 4004
-# IP-CIDR: 10
+# UPDATED: 2023-11-14 02:14:32
+# DOMAIN: 19
+# DOMAIN-KEYWORD: 9
+# DOMAIN-SUFFIX: 3589
+# IP-CIDR: 11
 # IP-CIDR6: 4
 # USER-AGENT: 31
-# TOTAL: 4079
-DOMAIN-KEYWORD,-cn
+# TOTAL: 3663
+DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,ms
 DOMAIN-KEYWORD,.tmall.com
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,alipay
@@ -23,6 +24,7 @@ IP-CIDR,1.255.62.0/24,no-resolve
 IP-CIDR,101.32.118.0/23,no-resolve
 IP-CIDR,101.32.96.0/20,no-resolve
 IP-CIDR,119.28.28.28/32,no-resolve
+IP-CIDR,120.195.181.180/32,no-resolve
 IP-CIDR,129.226.0.0/16,no-resolve
 IP-CIDR,182.254.116.0/24,no-resolve
 IP-CIDR,183.128.0.0/11,no-resolve

@@ -1,10 +1,10 @@
 # NAME: Nintendo
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-22 23:00:29
-# DOMAIN-SUFFIX: 126
-# IP-CIDR: 9
-# TOTAL: 135
+# UPDATED: 2023-10-07 14:17:47
+# DOMAIN-SUFFIX: 127
+# IP-CIDR: 1
+# TOTAL: 128
 payload:
   - DOMAIN-SUFFIX,100classicbooks.com
   - DOMAIN-SUFFIX,ac-pocketcamp.com
@@ -88,6 +88,7 @@ payload:
   - DOMAIN-SUFFIX,pokemon-moon.com
   - DOMAIN-SUFFIX,pokemon-sun.com
   - DOMAIN-SUFFIX,pokemon-sunmoon.com
+  - DOMAIN-SUFFIX,pokemon-unitepgame.com
   - DOMAIN-SUFFIX,pokemon.com
   - DOMAIN-SUFFIX,pokemonbank.com
   - DOMAIN-SUFFIX,pokemonblackwhite.com
@@ -132,12 +133,4 @@ payload:
   - DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
   - DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
   - DOMAIN-SUFFIX,yoshisnewisland.com
-  - IP-CIDR,104.192.0.0/12
-  - IP-CIDR,130.208.0.0/12
-  - IP-CIDR,34.112.0.0/12
-  - IP-CIDR,34.128.0.0/12
-  - IP-CIDR,34.160.0.0/12
-  - IP-CIDR,34.64.0.0/12
-  - IP-CIDR,35.176.0.0/12
-  - IP-CIDR,35.192.0.0/11
-  - IP-CIDR,35.224.0.0/12
+  - IP-CIDR,35.192.0.0/12

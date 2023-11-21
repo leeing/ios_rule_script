@@ -12,13 +12,13 @@
 
 ## 规则统计
 
-最后更新时间：2022-11-03 17:10:41
+最后更新时间：2023-10-07 14:20:58
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 8  | 
-| TOTAL | 8  | 
+| DOMAIN-SUFFIX | 10  | 
+| TOTAL | 10  | 
 
 
 ## Shadowrocket 
@@ -65,6 +65,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/ABC.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/ABC.list
+- https://rules.kr328.app/abc.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

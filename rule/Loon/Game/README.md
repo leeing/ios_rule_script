@@ -15,16 +15,16 @@
 
 ## 规则统计
 
-最后更新时间：2022-11-22 23:00:28
+最后更新时间：2023-11-08 02:11:03
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 5  | 
+| DOMAIN | 13  | 
 | DOMAIN-KEYWORD | 4  | 
-| DOMAIN-SUFFIX | 512  | 
-| IP-CIDR | 54  | 
-| TOTAL | 575  | 
+| DOMAIN-SUFFIX | 537  | 
+| IP-CIDR | 46  | 
+| TOTAL | 600  | 
 
 
 ## Loon 
@@ -80,7 +80,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Games/GamesAll.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Blizzard.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Game/Steam.list
-- https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Steam.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Steam.list
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Rockstar/Rockstar.list
@@ -125,6 +124,24 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Xbox.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Nintendo.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Nintendo.list
+- https://rules.kr328.app/riot@cn.yaml
+- https://rules.kr328.app/purikonejp.yaml
+- https://rules.kr328.app/ea.yaml
+- https://rules.kr328.app/xbox@cn.yaml
+- https://rules.kr328.app/gog@cn.yaml
+- https://rules.kr328.app/playstation.yaml
+- https://rules.kr328.app/steam@cn.yaml
+- https://rules.kr328.app/riot.yaml
+- https://rules.kr328.app/nintendo@cn.yaml
+- https://rules.kr328.app/rockstar.yaml
+- https://rules.kr328.app/op.yaml
+- https://rules.kr328.app/blizzard.yaml
+- https://rules.kr328.app/xbox.yaml
+- https://rules.kr328.app/garena.yaml
+- https://rules.kr328.app/gog.yaml
+- https://rules.kr328.app/steam.yaml
+- https://rules.kr328.app/nintendo.yaml
+- https://ruleset.isagood.day/global_game.conf
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

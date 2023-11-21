@@ -1,47 +1,20 @@
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-18 02:08:24
+# UPDATED: 2023-10-28 02:12:40
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 28
-# DOMAIN-KEYWORD: 22
-# DOMAIN-SUFFIX: 1067
+# DOMAIN: 29
+# DOMAIN-KEYWORD: 25
+# DOMAIN-SUFFIX: 1096
 # IP-CIDR: 924
 # URL-REGEX: 1
-# USER-AGENT: 56
-# TOTAL: 2098
-api.okzy.tv
-apm-misaka.biliapi.net
-apple.comscoreresearch.com
-bcbolt446c5271-a.akamaihd.net
-cs428.wpc.edgecastcdn.net
-daznfeeds.com.edgekey.net
-dca-lm-livedazn.secure.footprint.net
-e13252.dscg.akamaiedge.net
-edge.cwtv-vod-ext.top.comcast.net
-gspe1-ssl.ls.apple.com
-h-dazn.online-metrix.net
-h-netflix.online-metrix.net
-hamifans.emome.net
-hulu.com.c.footprint.net
-hulu.map.fastly.net
-images-daznservices-com.cdn.ampproject.org
-itvpnpmobile-a.akamaihd.net
-ktpx.amazon.com
-news-client.apple.com
-news-edge.apple.com
-news-events.apple.com
-np-edge.itunes.apple.com
-p.bstarstatic.com
-play-edge.itunes.apple.com
-rpg.pic-imges.com
-rthklive2-lh.akamaihd.net
-tv.applemusic.com
-uts-api.itunes.apple.com
+# USER-AGENT: 62
+# TOTAL: 2137
 .112263.com
 .20thcenturystudios.com.au
 .20thcenturystudios.com.br
 .20thcenturystudios.jp
+.4gtv.tv
 .5itv.tv
 .abc-studios.com
 .abc.com
@@ -62,8 +35,9 @@ uts-api.itunes.apple.com
 .amazonaws.co.uk
 .amazonaws.com
 .amazonprimevideo.cn
-.amazonprimevideo.com.cn
 .amazonprimevideos.com
+.amazontools.com
+.amazontours.com
 .amazonuniversity.jobs
 .amazonvideo.cc
 .amazonvideo.com
@@ -83,6 +57,7 @@ uts-api.itunes.apple.com
 .anidom.com
 .api.tv.colnv.com
 .apple.news
+.applemusic.com
 .assetshuluimcom-a.akamaihd.net
 .att.tv
 .atttvnow.com
@@ -121,6 +96,8 @@ uts-api.itunes.apple.com
 .bidi.net.uk
 .bigbigchannel.com.hk
 .bigbigshop.com
+.biggggg.com
+.bilibili.tv
 .biliintl.com
 .bitmovin.com
 .bootstrapcdn.com
@@ -178,6 +155,7 @@ uts-api.itunes.apple.com
 .content.jwplatform.com
 .control.kochava.com
 .conviva.com
+.cookielaw.org
 .coronavirusnow.com
 .cstatic.net
 .curbed.com
@@ -199,6 +177,7 @@ uts-api.itunes.apple.com
 .daznedge.net
 .daznfeeds.com
 .daznservices.com
+.dc1-lm-live2dazn.secure.footprint.net
 .dc2-vodhls-perform.secure.footprint.net
 .dca-ll-livedazn-dznlivejp.s.llnwi.net
 .dca-ll-voddazn-dznvodjp.s.llnwi.net
@@ -208,6 +187,7 @@ uts-api.itunes.apple.com
 .dilcdn.com
 .directv.com
 .disco-api.com
+.discomax.com
 .discovery.com
 .discoveryplus.co.uk
 .discoveryplus.com
@@ -215,7 +195,6 @@ uts-api.itunes.apple.com
 .disney-asia.com
 .disney-discount.com
 .disney-plus.net
-.disney-portal.my.onetrust.com
 .disney-studio.com
 .disney-studio.net
 .disney.asia
@@ -248,6 +227,7 @@ uts-api.itunes.apple.com
 .disney.io
 .disney.it
 .disney.my
+.disney.my.sentry.io
 .disney.nl
 .disney.no
 .disney.ph
@@ -548,6 +528,7 @@ uts-api.itunes.apple.com
 .gorin.jp
 .gvt1.com
 .gvt2.com
+.haiwaikan.com
 .happyon.jp
 .hath.network
 .hayabusa.dev
@@ -642,12 +623,13 @@ uts-api.itunes.apple.com
 .indaznlab.com
 .insidevoa.com
 .inter.iqiyi.com
-.intercom.io
 .intl-rcd.iqiyi.com
 .intl-subscription.iqiyi.com
 .intl.iqiyi.com
+.iole.tv
 .ipstatp.com
 .iq.com
+.isnssdk.com
 .italkbb.com
 .italkbbtv.com
 .itv.com
@@ -706,6 +688,7 @@ uts-api.itunes.apple.com
 .marvelsuperheroseptember.com
 .marvelsuperwar.com
 .maskedsingerfox.com
+.max.com
 .maxgo.com
 .media-amazon.com
 .meridian.net
@@ -716,6 +699,7 @@ uts-api.itunes.apple.com
 .moviesanywhere.com
 .msnbc.com
 .mtvnservices.com
+.mudvod.tv
 .muscdn.com
 .mushymush.tv
 .musical.ly
@@ -766,6 +750,9 @@ uts-api.itunes.apple.com
 .nbcsports.h-cdn.com
 .nbcudigitaladops.com
 .nbcuni.com
+.nbys.tv
+.nbys1.tv
+.nbyy.tv
 .nebula.app
 .netflix.ca
 .netflix.com
@@ -786,6 +773,7 @@ uts-api.itunes.apple.com
 .netflixstudios.com
 .netflixtechblog.com
 .nettyinternet.com
+.newpppp.com
 .newsnowfox.com
 .nflxext.com
 .nflximg.com
@@ -803,6 +791,9 @@ uts-api.itunes.apple.com
 .nikkei.com
 .nikkei.jp
 .nimg.jp
+.nivod.tv
+.nivodi.tv
+.nivodz.com
 .nomadlandmovie.ch
 .now-ashare.com
 .now-tv.com
@@ -825,6 +816,13 @@ uts-api.itunes.apple.com
 .nytlog.com
 .nytstyle.com
 .ocnttv.com
+.olehd.com
+.olelive.com
+.olevod.com
+.olevod.io
+.olevod.tv
+.olevodtv.com
+.onetrust.com
 .originalhulu.com
 .orlandohurricane.com
 .overcast.fm
@@ -906,8 +904,9 @@ uts-api.itunes.apple.com
 .sbnation.com
 .scdn.co
 .screens-lab.jp
-.sentry.io
+.seattlespheres.com
 .sgpstatp.com
+.sho.com
 .shopdisney.com
 .shops-disney.com
 .shopspeedtv.com
@@ -978,7 +977,6 @@ uts-api.itunes.apple.com
 .tvb.com.au
 .tvbanywhere.com
 .tvbanywhere.com.sg
-.tvbc.com.cn
 .tvbeventpower.com.hk
 .tvbusa.com
 .tvbweekly.com
@@ -989,6 +987,7 @@ uts-api.itunes.apple.com
 .twitch-ext.rootonline.de
 .twitch.tv
 .twitchcdn.net
+.twitchsvc.net
 .tynt.com
 .universalkids.com
 .uplynk.com
@@ -1006,6 +1005,7 @@ uts-api.itunes.apple.com
 .viacom.com
 .viacomcbs.com
 .viacomcbspressexpress.com
+.viblast.com
 .video.a2z.com
 .video.google.com
 .videos-f.jwpsrv.com
@@ -1057,6 +1057,7 @@ uts-api.itunes.apple.com
 .voatiengviet.com
 .voatour.com
 .voazimbabwe.com
+.vod360.net
 .vox-cdn.com
 .vox.com
 .voxcreative.com
@@ -1105,3 +1106,32 @@ uts-api.itunes.apple.com
 .zeeuk.com
 .zeriamerikes.com
 .zype.com
+akmcdnoversea-tw.inter.ptqy.gitv.tv
+api.okzy.tv
+apm-misaka.biliapi.net
+apple.comscoreresearch.com
+bcbolt446c5271-a.akamaihd.net
+cache.video.iqiyi.com
+chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
+cs428.wpc.edgecastcdn.net
+dashasiafox.akamaized.netflix
+daznfeeds.com.edgekey.net
+dca-lm-livedazn.secure.footprint.net
+e13252.dscg.akamaiedge.net
+edge.cwtv-vod-ext.top.comcast.net
+gspe1-ssl.ls.apple.com
+h-dazn.online-metrix.net
+h-netflix.online-metrix.net
+hamifans.emome.net
+hulu.com.c.footprint.net
+hulu.map.fastly.net
+images-daznservices-com.cdn.ampproject.org
+itvpnpmobile-a.akamaihd.net
+ktpx.amazon.com
+news-client.apple.com
+news-edge.apple.com
+news-events.apple.com
+ocvideo.apple.com
+p.bstarstatic.com
+rpg.pic-imges.com
+rthklive2-lh.akamaihd.net

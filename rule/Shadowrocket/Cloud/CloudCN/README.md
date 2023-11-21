@@ -12,13 +12,14 @@
 
 ## 规则统计
 
-最后更新时间：2022-11-03 17:11:27
+最后更新时间：2023-10-07 14:22:25
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
+| DOMAIN-SUFFIX | 161  | 
 | IP-CIDR | 231  | 
-| TOTAL | 231  | 
+| TOTAL | 392  | 
 
 
 ## Shadowrocket 
@@ -80,6 +81,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/CCC-CN/NeteaseCCC.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/CCC-CN/TencentCCC.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/CCC-CN.list
+- https://rules.kr328.app/huaweicloud.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

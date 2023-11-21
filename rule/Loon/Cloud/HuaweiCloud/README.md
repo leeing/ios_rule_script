@@ -12,14 +12,15 @@
 
 ## 规则统计
 
-最后更新时间：2022-11-03 17:11:27
+最后更新时间：2023-10-07 14:22:25
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
+| DOMAIN-SUFFIX | 161  | 
 | IP-CIDR | 29  | 
 | IP-CIDR6 | 2  | 
-| TOTAL | 31  | 
+| TOTAL | 192  | 
 
 
 ## Loon 
@@ -66,6 +67,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 《华为云计算》的数据来自以下链接，如与本项目的《华为云计算》规则混合使用，可能会造成规则大量重复。
 
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/CCC-CN/HuaweiCCC.list
+- https://rules.kr328.app/huaweicloud.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。
