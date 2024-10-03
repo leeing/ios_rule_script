@@ -17,9 +17,13 @@
 ## 规则统计
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 最后更新时间：2022-11-03 17:11:57
 =======
 最后更新时间：2023-10-07 14:23:54
+>>>>>>> upstream/master
+=======
+最后更新时间：2024-07-03 16:19:12
 >>>>>>> upstream/master
 
 各类型规则统计：
@@ -63,12 +67,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 ## 数据来源
 
-《General》的数据来自以下链接，如与本项目的《General》规则混合使用，可能造成部分重写重复。
-
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/General.sgmodule
-
-
-感谢以上规则作者的辛勤付出（排名不分先后）。
+当前规则未直接引用数据源。
 
 ## 最后
 

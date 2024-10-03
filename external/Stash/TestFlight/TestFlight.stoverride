@@ -1,8 +1,12 @@
 name: TestFlight下载修正
 <<<<<<< HEAD
+<<<<<<< HEAD
 desc: 最后更新时间 2022-11-03 17:11:56
 =======
 desc: 最后更新时间 2023-10-07 14:23:53
+>>>>>>> upstream/master
+=======
+desc: 最后更新时间 2024-07-03 16:19:11
 >>>>>>> upstream/master
 # author: NobyDa
 # repo: https://github.com/NobyDa/Script/tree/master

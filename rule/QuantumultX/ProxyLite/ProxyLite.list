@@ -1,36 +1,38 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-17 02:16:47
-# HOST: 23
+# UPDATED: 2024-09-29 02:12:25
+# HOST: 25
 # HOST-KEYWORD: 22
-# HOST-SUFFIX: 835
+# HOST-SUFFIX: 847
 # IP-CIDR: 89
 # IP6-CIDR: 4
 # USER-AGENT: 7
-# TOTAL: 980
+# TOTAL: 994
 HOST,addons.mozilla.org,ProxyLite
 HOST,amp-api.podcasts.apple.com,ProxyLite
+HOST,api.msn.com,ProxyLite
 HOST,api.waqi.info,ProxyLite
 HOST,aqi.aqicn.org,ProxyLite
+HOST,assets.msn.com,ProxyLite
 HOST,assets1.xboxlive.com,ProxyLite
 HOST,assets2.xboxlive.com,ProxyLite
 HOST,az416426.vo.msecnd.net,ProxyLite
 HOST,az668014.vo.msecnd.net,ProxyLite
 HOST,beta.music.apple.com,ProxyLite
 HOST,books.apple.com,ProxyLite
-HOST,chat.openai.com.cdn.cloudflare.net,ProxyLite
+HOST,cdp.cloud.unity3d.com,ProxyLite
 HOST,clubhouse.pubnubapi.com,ProxyLite
+HOST,copilot.microsoft.com,ProxyLite
 HOST,disk.yandex.com,ProxyLite
 HOST,lab.skk.moe,ProxyLite
+HOST,location.microsoft.com,ProxyLite
+HOST,login.microsoftonline.com,ProxyLite
 HOST,ocsp.int-x3.letsencrypt.org,ProxyLite
 HOST,openaiapi-site.azureedge.net,ProxyLite
-HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,ProxyLite
-HOST,openaicomproductionae4b.blob.core.windows.net,ProxyLite
-HOST,production-openaicom-storage.azureedge.net,ProxyLite
 HOST,search.yahoo.co.jp,ProxyLite
+HOST,self.events.data.microsoft.com,ProxyLite
 HOST,tv.apple.com,ProxyLite
-HOST,voice.telephony.goog,ProxyLite
 HOST,wego.here.com,ProxyLite
 HOST-SUFFIX,1password.com,ProxyLite
 HOST-SUFFIX,4everproxy.com,ProxyLite
@@ -132,7 +134,6 @@ HOST-SUFFIX,blog.com,ProxyLite
 HOST-SUFFIX,blogcdn.com,ProxyLite
 HOST-SUFFIX,bloglovin.com,ProxyLite
 HOST-SUFFIX,blogsmithmedia.com,ProxyLite
-HOST-SUFFIX,bloomberg.cn,ProxyLite
 HOST-SUFFIX,bloomberg.com,ProxyLite
 HOST-SUFFIX,bloomberg.de,ProxyLite
 HOST-SUFFIX,bloombergview.com,ProxyLite
@@ -145,6 +146,7 @@ HOST-SUFFIX,boxun.com,ProxyLite
 HOST-SUFFIX,brave.com,ProxyLite
 HOST-SUFFIX,btlibrary.me,ProxyLite
 HOST-SUFFIX,bullguard.com,ProxyLite
+HOST-SUFFIX,buzzsprout.com,ProxyLite
 HOST-SUFFIX,bybit.com,ProxyLite
 HOST-SUFFIX,byteoversea.com,ProxyLite
 HOST-SUFFIX,c-span.org,ProxyLite
@@ -156,9 +158,7 @@ HOST-SUFFIX,cdn.segment.com,ProxyLite
 HOST-SUFFIX,cdnst.net,ProxyLite
 HOST-SUFFIX,celestrak.com,ProxyLite
 HOST-SUFFIX,census.gov,ProxyLite
-HOST-SUFFIX,chalungu.cn,ProxyLite
 HOST-SUFFIX,change.org,ProxyLite
-HOST-SUFFIX,chatgpt.com,ProxyLite
 HOST-SUFFIX,chaturbate.com,ProxyLite
 HOST-SUFFIX,chinadigitaltimes.net,ProxyLite
 HOST-SUFFIX,chinatimes.com,ProxyLite
@@ -183,10 +183,12 @@ HOST-SUFFIX,coingecko.com,ProxyLite
 HOST-SUFFIX,coinmarketcap.com,ProxyLite
 HOST-SUFFIX,coinone.co.kr,ProxyLite
 HOST-SUFFIX,comodoca.com,ProxyLite
+HOST-SUFFIX,compose-spec.io,ProxyLite
 HOST-SUFFIX,conoha.jp,ProxyLite
 HOST-SUFFIX,content.office.net,ProxyLite
 HOST-SUFFIX,coursehero.com,ProxyLite
 HOST-SUFFIX,crisp.chat,ProxyLite
+HOST-SUFFIX,crittercism.com,ProxyLite
 HOST-SUFFIX,culturalspot.org,ProxyLite
 HOST-SUFFIX,culturedcode.com,ProxyLite
 HOST-SUFFIX,cygames.jp,ProxyLite
@@ -221,6 +223,8 @@ HOST-SUFFIX,dlive.tv,ProxyLite
 HOST-SUFFIX,dmm.co.jp,ProxyLite
 HOST-SUFFIX,dnsimple.com,ProxyLite
 HOST-SUFFIX,docker.com,ProxyLite
+HOST-SUFFIX,docker.io,ProxyLite
+HOST-SUFFIX,dockerhub.com,ProxyLite
 HOST-SUFFIX,doub.io,ProxyLite
 HOST-SUFFIX,dowjones.com,ProxyLite
 HOST-SUFFIX,dribbble.com,ProxyLite
@@ -247,6 +251,7 @@ HOST-SUFFIX,extmatrix.com,ProxyLite
 HOST-SUFFIX,eyny.com,ProxyLite
 HOST-SUFFIX,f8.com,ProxyLite
 HOST-SUFFIX,fanatical.com,ProxyLite
+HOST-SUFFIX,fanbox.cc,ProxyLite
 HOST-SUFFIX,fastly.net,ProxyLite
 HOST-SUFFIX,fastmail.com,ProxyLite
 HOST-SUFFIX,fb.com,ProxyLite
@@ -260,6 +265,7 @@ HOST-SUFFIX,feeder.co,ProxyLite
 HOST-SUFFIX,feedly.com,ProxyLite
 HOST-SUFFIX,feedsportal.com,ProxyLite
 HOST-SUFFIX,fiftythree.com,ProxyLite
+HOST-SUFFIX,firefox.com,ProxyLite
 HOST-SUFFIX,flexibits.com,ProxyLite
 HOST-SUFFIX,flickr.com,ProxyLite
 HOST-SUFFIX,flipboard.com,ProxyLite
@@ -353,6 +359,7 @@ HOST-SUFFIX,ishowsapp.com,ProxyLite
 HOST-SUFFIX,issuu.com,ProxyLite
 HOST-SUFFIX,istockphoto.com,ProxyLite
 HOST-SUFFIX,itgonglun.com,ProxyLite
+HOST-SUFFIX,iwara.tv,ProxyLite
 HOST-SUFFIX,ixquick.com,ProxyLite
 HOST-SUFFIX,j.mp,ProxyLite
 HOST-SUFFIX,javbus.com,ProxyLite
@@ -448,6 +455,7 @@ HOST-SUFFIX,newstatesman.com,ProxyLite
 HOST-SUFFIX,newsweek.com,ProxyLite
 HOST-SUFFIX,newyorker.com,ProxyLite
 HOST-SUFFIX,newyorktimes.com,ProxyLite
+HOST-SUFFIX,nextmedia.com,ProxyLite
 HOST-SUFFIX,nhncorp.jp,ProxyLite
 HOST-SUFFIX,nianticlabs.com,ProxyLite
 HOST-SUFFIX,nicovideo.jp,ProxyLite
@@ -512,6 +520,9 @@ HOST-SUFFIX,pixnet.net,ProxyLite
 HOST-SUFFIX,playartifact.com,ProxyLite
 HOST-SUFFIX,player.fm,ProxyLite
 HOST-SUFFIX,playpcesor.com,ProxyLite
+HOST-SUFFIX,playstation.com,ProxyLite
+HOST-SUFFIX,playstation.net,ProxyLite
+HOST-SUFFIX,playstationnetwork.com,ProxyLite
 HOST-SUFFIX,podbean.com,ProxyLite
 HOST-SUFFIX,pokemon.com,ProxyLite
 HOST-SUFFIX,poloniex.com,ProxyLite
@@ -519,6 +530,7 @@ HOST-SUFFIX,popo.tw,ProxyLite
 HOST-SUFFIX,potato.im,ProxyLite
 HOST-SUFFIX,prism-break.org,ProxyLite
 HOST-SUFFIX,privoxy.org,ProxyLite
+HOST-SUFFIX,proton.me,ProxyLite
 HOST-SUFFIX,proxfree.com,ProxyLite
 HOST-SUFFIX,proxifier.com,ProxyLite
 HOST-SUFFIX,pscp.tv,ProxyLite
@@ -793,7 +805,6 @@ HOST-SUFFIX,welt.de,ProxyLite
 HOST-SUFFIX,wenxuecity.com,ProxyLite
 HOST-SUFFIX,westca.com,ProxyLite
 HOST-SUFFIX,westpoint.edu,ProxyLite
-HOST-SUFFIX,wheel-size.cn,ProxyLite
 HOST-SUFFIX,whoer.net,ProxyLite
 HOST-SUFFIX,wikibooks.org,ProxyLite
 HOST-SUFFIX,wikidata.org,ProxyLite
@@ -826,6 +837,7 @@ HOST-SUFFIX,wsj.com,ProxyLite
 HOST-SUFFIX,wsj.net,ProxyLite
 HOST-SUFFIX,wwitv.com,ProxyLite
 HOST-SUFFIX,x.co,ProxyLite
+HOST-SUFFIX,x.com,ProxyLite
 HOST-SUFFIX,xanga.com,ProxyLite
 HOST-SUFFIX,xclient.info,ProxyLite
 HOST-SUFFIX,xda-developers.com,ProxyLite
@@ -865,6 +877,8 @@ HOST-SUFFIX,zb.com,ProxyLite
 HOST-SUFFIX,zello.com,ProxyLite
 HOST-SUFFIX,zeronet.io,ProxyLite
 HOST-SUFFIX,zeutch.com,ProxyLite
+HOST-SUFFIX,zoom.us,ProxyLite
+HOST-SUFFIX,zoomgov.com,ProxyLite
 HOST-SUFFIX,zophar.net,ProxyLite
 HOST-SUFFIX,zyxel.com,ProxyLite
 HOST-KEYWORD,.pinterest.,ProxyLite

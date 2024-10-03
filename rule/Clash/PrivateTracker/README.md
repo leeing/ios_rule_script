@@ -12,26 +12,27 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-11-21 02:15:00
+最后更新时间：2024-10-03 02:13:46
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 155  | 
-| DOMAIN-KEYWORD | 3  | 
-| DOMAIN-SUFFIX | 119  | 
-| IP-CIDR | 8  | 
-| IP-CIDR6 | 2  | 
-| TOTAL | 287  | 
+| DOMAIN | 119  | 
+| DOMAIN-KEYWORD | 4  | 
+| DOMAIN-SUFFIX | 123  | 
+| IP-CIDR | 3  | 
+| TOTAL | 249  | 
 
 
 ## Clash 
 
 #### 使用说明
 - PrivateTracker.yaml，请使用 behavior: "classical"。
+- PrivateTracker_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - PrivateTracker.yaml 单独使用。
+- PrivateTracker_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**

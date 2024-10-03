@@ -13,9 +13,13 @@
 ## 规则统计
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 最后更新时间：2022-11-03 17:11:50
 =======
 最后更新时间：2023-10-07 14:23:39
+>>>>>>> upstream/master
+=======
+最后更新时间：2024-07-03 16:18:43
 >>>>>>> upstream/master
 
 各类型规则统计：
@@ -30,6 +34,7 @@
 | URL-REGEX | 4  | 
 | HTTP-REQUEST-SCRIPT | 1  | 
 <<<<<<< HEAD
+<<<<<<< HEAD
 | HTTP-RESPONSE-SCRIPT | 28  | 
 | REJECT | 18  | 
 | MITM | 23  | 
@@ -37,6 +42,10 @@
 =======
 | HTTP-RESPONSE-SCRIPT | 24  | 
 | REJECT | 12  | 
+=======
+| HTTP-RESPONSE-SCRIPT | 25  | 
+| REJECT | 11  | 
+>>>>>>> upstream/master
 | MITM | 21  | 
 | TOTAL | 67  | 
 >>>>>>> upstream/master

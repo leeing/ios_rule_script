@@ -17,14 +17,19 @@
 ## 规则统计
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 最后更新时间：2022-11-03 17:11:42
 =======
 最后更新时间：2023-11-20 02:18:36
+>>>>>>> upstream/master
+=======
+最后更新时间：2024-10-02 02:15:52
 >>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
+<<<<<<< HEAD
 <<<<<<< HEAD
 | REJECT | 416  | 
 | MITM | 363  | 
@@ -33,6 +38,12 @@
 =======
 | REJECT | 726  | 
 | MITM | 678  | 
+| FORCE-HTTP-ENGINE-HOSTS | 6  | 
+| TOTAL | 1410  | 
+>>>>>>> upstream/master
+=======
+| REJECT | 725  | 
+| MITM | 679  | 
 | FORCE-HTTP-ENGINE-HOSTS | 6  | 
 | TOTAL | 1410  | 
 >>>>>>> upstream/master
@@ -75,14 +86,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 《复写去广告》的数据来自以下链接，如与本项目的《复写去广告》规则混合使用，可能造成部分重写重复。
 
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.sgmodule
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/Block/Advertising.sgmodule
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.qxrewrite
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Rewrite/Rewrite.list
 - https://raw.githubusercontent.com/GFBG-IT/QuantumultX/main/Advertising.conf
 - https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/Advertising.plugin
 - https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/StartUp.conf
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/Block/YouTubeAds.sgmodule
 - https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/cleanup.snippet
 - https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/tailadv.conf
 - https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/Applet.conf

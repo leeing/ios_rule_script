@@ -2,6 +2,7 @@
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 <<<<<<< HEAD
+<<<<<<< HEAD
 # UPDATED: 2022-11-18 02:10:26
 # HOST: 2
 # IP-CIDR: 1
@@ -9,11 +10,15 @@
 # USER-AGENT: 1
 =======
 # UPDATED: 2023-11-20 02:18:46
+=======
+# UPDATED: 2024-10-02 02:15:58
+>>>>>>> upstream/master
 # HOST: 5
 >>>>>>> upstream/master
 # HTTP-REQUEST-SCRIPT: 3
 # HTTP-RESPONSE-SCRIPT: 33
 # REDIRECT: 62
+<<<<<<< HEAD
 <<<<<<< HEAD
 # REJECT: 479
 # MITM: 487
@@ -22,6 +27,11 @@
 # REJECT: 790
 # MITM: 726
 # TOTAL: 1619
+=======
+# REJECT: 753
+# MITM: 720
+# TOTAL: 1576
+>>>>>>> upstream/master
 HOST,appcloud.zhihu.com,AdvertisingScript
 >>>>>>> upstream/master
 HOST,appcloud2.in.zhihu.com,AdvertisingScript

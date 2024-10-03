@@ -19,9 +19,13 @@ QuantumultX需要添加部分分流规则才能生效，具体配置请参照数
 ## 规则统计
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 最后更新时间：2022-11-18 02:10:28
 =======
 最后更新时间：2023-11-20 02:18:50
+>>>>>>> upstream/master
+=======
+最后更新时间：2024-10-02 02:16:01
 >>>>>>> upstream/master
 
 各类型规则统计：
@@ -39,6 +43,7 @@ QuantumultX需要添加部分分流规则才能生效，具体配置请参照数
 | HTTP-RESPONSE-SCRIPT | 25  | 
 | REDIRECT | 62  | 
 <<<<<<< HEAD
+<<<<<<< HEAD
 | REJECT | 445  | 
 | MITM | 495  | 
 | FORCE-HTTP-ENGINE-HOSTS | 6  | 
@@ -48,6 +53,12 @@ QuantumultX需要添加部分分流规则才能生效，具体配置请参照数
 | MITM | 812  | 
 | FORCE-HTTP-ENGINE-HOSTS | 6  | 
 | TOTAL | 1658  | 
+>>>>>>> upstream/master
+=======
+| REJECT | 741  | 
+| MITM | 812  | 
+| FORCE-HTTP-ENGINE-HOSTS | 6  | 
+| TOTAL | 1656  | 
 >>>>>>> upstream/master
 
 
@@ -103,19 +114,14 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 《AllInOne》的数据来自以下链接，如与本项目的《AllInOne》规则混合使用，可能造成部分重写重复。
 
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.sgmodule
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/Block/Advertising.sgmodule
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.qxrewrite
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Upgrade/Upgrade.qxrewrite
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Rewrite/Rewrite.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/General.sgmodule
 - https://raw.githubusercontent.com/GFBG-IT/QuantumultX/main/Advertising.conf
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/General.conf
 - https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/Advertising.plugin
 - https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/StartUp.conf
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zheye/zheye.lnplugin
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.lnplugin
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/Block/YouTubeAds.sgmodule
 - https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/cleanup.snippet
 - https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/tailadv.conf
 - https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/Applet.conf

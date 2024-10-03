@@ -1,17 +1,18 @@
 # NAME: XiaoMi
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-07 14:20:19
-# DOMAIN-SUFFIX: 122
-# IP-CIDR: 4
+# UPDATED: 2024-08-20 02:11:49
+# DOMAIN-SUFFIX: 127
+# IP-CIDR: 5
 # PROCESS-NAME: 2
-# TOTAL: 128
+# TOTAL: 134
 payload:
   - DOMAIN-SUFFIX,408399.com
   - DOMAIN-SUFFIX,408399.net
   - DOMAIN-SUFFIX,816798.net
   - DOMAIN-SUFFIX,account-cn.huami.com
   - DOMAIN-SUFFIX,airstar.com
+  - DOMAIN-SUFFIX,airstarfinance.net
   - DOMAIN-SUFFIX,aleenote.cn
   - DOMAIN-SUFFIX,aleenote.com
   - DOMAIN-SUFFIX,alibiji.cn
@@ -67,6 +68,7 @@ payload:
   - DOMAIN-SUFFIX,micode.net
   - DOMAIN-SUFFIX,mifile.cn
   - DOMAIN-SUFFIX,mij.cc
+  - DOMAIN-SUFFIX,mijia.tech
   - DOMAIN-SUFFIX,mikge.com
   - DOMAIN-SUFFIX,miliao.com
   - DOMAIN-SUFFIX,milliant.com
@@ -115,20 +117,24 @@ payload:
   - DOMAIN-SUFFIX,xiaomidns.com
   - DOMAIN-SUFFIX,xiaomidns.com.cn
   - DOMAIN-SUFFIX,xiaomidns.net
+  - DOMAIN-SUFFIX,xiaomiev.com
   - DOMAIN-SUFFIX,xiaomiinc.cn
   - DOMAIN-SUFFIX,xiaomiinc.com
   - DOMAIN-SUFFIX,xiaomiinc.com.cn
   - DOMAIN-SUFFIX,xiaomiinc.net
+  - DOMAIN-SUFFIX,xiaomimobile.com
   - DOMAIN-SUFFIX,xiaomiprint.com
   - DOMAIN-SUFFIX,xiaomisa.cn
   - DOMAIN-SUFFIX,xiaomisa.com
   - DOMAIN-SUFFIX,xiaomisa.net
   - DOMAIN-SUFFIX,xiaomisa.org
+  - DOMAIN-SUFFIX,xiaomixiaoai.com
   - DOMAIN-SUFFIX,xiaomiyoupin.com
   - DOMAIN-SUFFIX,xlaomi.net
   - DOMAIN-SUFFIX,youpin.cn
   - DOMAIN-SUFFIX,youpin.com.cn
   - DOMAIN-SUFFIX,zhutidasai.com
+  - IP-CIDR,110.43.63.242/32
   - IP-CIDR,120.133.33.222/32
   - IP-CIDR,47.241.176.221/32
   - IP-CIDR,58.220.58.152/31
