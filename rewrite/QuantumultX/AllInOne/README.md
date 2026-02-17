@@ -18,45 +18,20 @@ QuantumultX需要添加部分分流规则才能生效，具体配置请参照数
 
 ## 规则统计
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-最后更新时间：2022-11-18 02:10:26
-=======
-最后更新时间：2023-11-20 02:18:46
->>>>>>> upstream/master
-=======
-最后更新时间：2024-10-02 02:15:58
->>>>>>> upstream/master
+最后更新时间：2025-09-04 02:13:26
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-<<<<<<< HEAD
-| HOST | 2  | 
-| IP-CIDR | 1  | 
+| HOST | 8  | 
+| IP-CIDR | 2  | 
 | IP6-CIDR | 1  | 
-| USER-AGENT | 1  | 
-=======
-| HOST | 5  | 
->>>>>>> upstream/master
 | HTTP-REQUEST-SCRIPT | 3  | 
-| HTTP-RESPONSE-SCRIPT | 33  | 
+| HTTP-RESPONSE-SCRIPT | 31  | 
 | REDIRECT | 62  | 
-<<<<<<< HEAD
-<<<<<<< HEAD
-| REJECT | 479  | 
-| MITM | 487  | 
-| TOTAL | 1064  | 
-=======
-| REJECT | 790  | 
-| MITM | 726  | 
-| TOTAL | 1619  | 
->>>>>>> upstream/master
-=======
-| REJECT | 753  | 
-| MITM | 720  | 
-| TOTAL | 1576  | 
->>>>>>> upstream/master
+| REJECT | 759  | 
+| MITM | 733  | 
+| TOTAL | 1599  | 
 
 
 ## QuantumultX 
@@ -114,11 +89,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.qxrewrite
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Upgrade/Upgrade.qxrewrite
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Rewrite/Rewrite.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.lnplugin
 - https://raw.githubusercontent.com/GFBG-IT/QuantumultX/main/Advertising.conf
-- https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/Advertising.plugin
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Advertising/Advertising.list
-- https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/StartUp.conf
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zheye/zheye.lnplugin
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.lnplugin
 - https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/cleanup.snippet

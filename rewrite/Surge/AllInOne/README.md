@@ -18,48 +18,22 @@ QuantumultX需要添加部分分流规则才能生效，具体配置请参照数
 
 ## 规则统计
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-最后更新时间：2022-11-18 02:10:28
-=======
-最后更新时间：2023-11-20 02:18:50
->>>>>>> upstream/master
-=======
-最后更新时间：2024-10-02 02:16:01
->>>>>>> upstream/master
+最后更新时间：2025-09-04 02:13:28
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-<<<<<<< HEAD
-| DOMAIN | 3  | 
-| IP-CIDR | 1  | 
+| DOMAIN | 8  | 
+| IP-CIDR | 2  | 
 | IP-CIDR6 | 1  | 
-=======
-| DOMAIN | 5  | 
->>>>>>> upstream/master
-| URL-REGEX | 4  | 
+| URL-REGEX | 12  | 
 | HTTP-REQUEST-SCRIPT | 1  | 
-| HTTP-RESPONSE-SCRIPT | 25  | 
+| HTTP-RESPONSE-SCRIPT | 23  | 
 | REDIRECT | 62  | 
-<<<<<<< HEAD
-<<<<<<< HEAD
-| REJECT | 445  | 
-| MITM | 495  | 
+| REJECT | 745  | 
+| MITM | 831  | 
 | FORCE-HTTP-ENGINE-HOSTS | 6  | 
-| TOTAL | 1047  | 
-=======
-| REJECT | 743  | 
-| MITM | 812  | 
-| FORCE-HTTP-ENGINE-HOSTS | 6  | 
-| TOTAL | 1658  | 
->>>>>>> upstream/master
-=======
-| REJECT | 741  | 
-| MITM | 812  | 
-| FORCE-HTTP-ENGINE-HOSTS | 6  | 
-| TOTAL | 1656  | 
->>>>>>> upstream/master
+| TOTAL | 1691  | 
 
 
 ## Surge 
@@ -118,8 +92,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Upgrade/Upgrade.qxrewrite
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Rewrite/Rewrite.list
 - https://raw.githubusercontent.com/GFBG-IT/QuantumultX/main/Advertising.conf
-- https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/Advertising.plugin
-- https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/StartUp.conf
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zheye/zheye.lnplugin
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.lnplugin
 - https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/cleanup.snippet

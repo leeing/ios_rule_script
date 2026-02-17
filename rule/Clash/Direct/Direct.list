@@ -1,12 +1,12 @@
 # NAME: Direct
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:16:16
+# UPDATED: 2025-08-12 02:08:14
 # DOMAIN: 56
-# DOMAIN-KEYWORD: 35
-# DOMAIN-SUFFIX: 129
+# DOMAIN-KEYWORD: 36
+# DOMAIN-SUFFIX: 139
 # PROCESS-NAME: 36
-# TOTAL: 256
+# TOTAL: 267
 DOMAIN,ad.10010.com
 DOMAIN,ad.12306.cn
 DOMAIN,ain.bgm.tv
@@ -97,14 +97,24 @@ DOMAIN-SUFFIX,comicat.org
 DOMAIN-SUFFIX,concertos.live
 DOMAIN-SUFFIX,dicmusic.club
 DOMAIN-SUFFIX,discfan.net
+DOMAIN-SUFFIX,diskstation.me
 DOMAIN-SUFFIX,dizhensubao.getui.com
 DOMAIN-SUFFIX,doi.org
+DOMAIN-SUFFIX,dscloud.biz
+DOMAIN-SUFFIX,dscloud.me
+DOMAIN-SUFFIX,dscloud.mobi
+DOMAIN-SUFFIX,dsmynas.com
+DOMAIN-SUFFIX,dsmynas.net
+DOMAIN-SUFFIX,dsmynas.org
 DOMAIN-SUFFIX,dxdhd.com
 DOMAIN-SUFFIX,eastgame.org
 DOMAIN-SUFFIX,empornium.me
 DOMAIN-SUFFIX,et8.org
 DOMAIN-SUFFIX,exoticaz.to
 DOMAIN-SUFFIX,f.video.weibocdn.com
+DOMAIN-SUFFIX,familyds.com
+DOMAIN-SUFFIX,familyds.net
+DOMAIN-SUFFIX,familyds.org
 DOMAIN-SUFFIX,filelist.io
 DOMAIN-SUFFIX,fus.cdn.krcom.cn
 DOMAIN-SUFFIX,gazellegames.net
@@ -125,13 +135,12 @@ DOMAIN-SUFFIX,hdhome.org
 DOMAIN-SUFFIX,hdpost.top
 DOMAIN-SUFFIX,hdroute.org
 DOMAIN-SUFFIX,hdsky.me
-DOMAIN-SUFFIX,hdstreet.club
 DOMAIN-SUFFIX,hdtime.org
 DOMAIN-SUFFIX,hdupt.com
 DOMAIN-SUFFIX,hdzone.me
 DOMAIN-SUFFIX,hitpt.com
-DOMAIN-SUFFIX,hitpt.org
 DOMAIN-SUFFIX,hudbt.hust.edu.cn
+DOMAIN-SUFFIX,i234.me
 DOMAIN-SUFFIX,icetorrent.org
 DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,j99.info
@@ -148,9 +157,9 @@ DOMAIN-SUFFIX,lztr.me
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,madsrevolution.net
 DOMAIN-SUFFIX,moecat.best
-DOMAIN-SUFFIX,morethan.tv
 DOMAIN-SUFFIX,msg.vg
 DOMAIN-SUFFIX,myanonamouse.net
+DOMAIN-SUFFIX,myds.me
 DOMAIN-SUFFIX,nanyangpt.com
 DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,ncore.cc
@@ -181,6 +190,7 @@ DOMAIN-SUFFIX,springer.com
 DOMAIN-SUFFIX,springernature.com
 DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,staticfile.org
+DOMAIN-SUFFIX,synology.me
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,totheglory.im
 DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
@@ -192,6 +202,7 @@ DOMAIN-SUFFIX,weather-data.apple.com
 DOMAIN-SUFFIX,weather-map.apple.com
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,xunlei.com
+DOMAIN-KEYWORD,amp-api.podcasts.apple.com
 DOMAIN-KEYWORD,anti-ad.net
 DOMAIN-KEYWORD,api-adservices.apple.com
 DOMAIN-KEYWORD,api.smoot.apple.cn
@@ -232,9 +243,9 @@ PROCESS-NAME,BitComet
 PROCESS-NAME,ClashX
 PROCESS-NAME,DownloadService
 PROCESS-NAME,Folx
+PROCESS-NAME,LocalSend
 PROCESS-NAME,LogiOptions
 PROCESS-NAME,LogiOptionsDaemon
-PROCESS-NAME,Motrix.app
 PROCESS-NAME,NetTransport
 PROCESS-NAME,SunloginClient_Desktop
 PROCESS-NAME,SunloginClient_Helper

@@ -1,26 +1,31 @@
 # NAME: ChinaNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:17:23
-# DOMAIN: 15
+# UPDATED: 2025-12-08 02:09:36
+# DOMAIN: 20
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 3584
+# DOMAIN-SUFFIX: 3587
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 3623
+# TOTAL: 3631
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
   - DOMAIN,cdn.angruo.com
+  - DOMAIN,cdn.lilyemby.com
   - DOMAIN,client.amplifi.com
   - DOMAIN,download.jetbrains.com
+  - DOMAIN,download.microsoft.com
   - DOMAIN,images-cn.ssl-images-amazon.com
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,kc.kexinshe.com
+  - DOMAIN,ntservicepack.microsoft.com
   - DOMAIN,origin-a.akamaihd.ne
   - DOMAIN,origin-a.akamaihd.net
+  - DOMAIN,smart.uhdnow.com
   - DOMAIN,sms.imagetasks.com
   - DOMAIN,steamcommunity-a.akamaihd.net
+  - DOMAIN,tx.lilyemby.com
   - DOMAIN,weixin.com
   - DOMAIN,www.libvideo.com
   - DOMAIN,www.yxssp.com
@@ -307,7 +312,6 @@ payload:
   - DOMAIN-SUFFIX,acctdns.com
   - DOMAIN-SUFFIX,acctdns.net
   - DOMAIN-SUFFIX,acetaffy.club
-  - DOMAIN-SUFFIX,acg.rip
   - DOMAIN-SUFFIX,acm.org
   - DOMAIN-SUFFIX,acplay.net
   - DOMAIN-SUFFIX,acs.org
@@ -584,6 +588,7 @@ payload:
   - DOMAIN-SUFFIX,bootcdn.net
   - DOMAIN-SUFFIX,bootcss.com
   - DOMAIN-SUFFIX,bosera.com
+  - DOMAIN-SUFFIX,bosszhipin.com
   - DOMAIN-SUFFIX,broadcasthe.net
   - DOMAIN-SUFFIX,browserleaks.com
   - DOMAIN-SUFFIX,bstatic.com
@@ -1121,6 +1126,7 @@ payload:
   - DOMAIN-SUFFIX,diyiyou.com
   - DOMAIN-SUFFIX,dj99.com
   - DOMAIN-SUFFIX,dl-vip.pcfaster.baidu.co.th
+  - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
   - DOMAIN-SUFFIX,dler.cloud
   - DOMAIN-SUFFIX,dlgslb.net
   - DOMAIN-SUFFIX,dlnel.com
@@ -1505,7 +1511,6 @@ payload:
   - DOMAIN-SUFFIX,hdcmct.org
   - DOMAIN-SUFFIX,hddolby.com
   - DOMAIN-SUFFIX,hdhome.org
-  - DOMAIN-SUFFIX,hdsky.me
   - DOMAIN-SUFFIX,hdyxgame.com
   - DOMAIN-SUFFIX,healthjd.com
   - DOMAIN-SUFFIX,heavenlywind.cc
@@ -1525,6 +1530,7 @@ payload:
   - DOMAIN-SUFFIX,heytapdownload.com
   - DOMAIN-SUFFIX,heytapimage.com
   - DOMAIN-SUFFIX,heytapmobi.com
+  - DOMAIN-SUFFIX,heytea-co.com
   - DOMAIN-SUFFIX,heytea.com
   - DOMAIN-SUFFIX,hftfund.com
   - DOMAIN-SUFFIX,hhtravel.com
@@ -1749,7 +1755,6 @@ payload:
   - DOMAIN-SUFFIX,ipplus360.com
   - DOMAIN-SUFFIX,iprdp.net
   - DOMAIN-SUFFIX,ipssh.net
-  - DOMAIN-SUFFIX,ipv6-test.com
   - DOMAIN-SUFFIX,iranshao.com
   - DOMAIN-SUFFIX,irs01.com
   - DOMAIN-SUFFIX,isd.com
@@ -1899,6 +1904,7 @@ payload:
   - DOMAIN-SUFFIX,jiazhao.com
   - DOMAIN-SUFFIX,jibencaozuo.com
   - DOMAIN-SUFFIX,jidian.im
+  - DOMAIN-SUFFIX,jiedaibao.gs
   - DOMAIN-SUFFIX,jiemeng8.com
   - DOMAIN-SUFFIX,jiemian.com
   - DOMAIN-SUFFIX,jikeiot.cloud
@@ -2161,6 +2167,8 @@ payload:
   - DOMAIN-SUFFIX,lsplayer.com
   - DOMAIN-SUFFIX,lu.com
   - DOMAIN-SUFFIX,lucifr.com
+  - DOMAIN-SUFFIX,luckincdn.com
+  - DOMAIN-SUFFIX,luckincoffee.com
   - DOMAIN-SUFFIX,luckincoffeecdn.com
   - DOMAIN-SUFFIX,luckyair.net
   - DOMAIN-SUFFIX,ludashi.com
@@ -2182,6 +2190,7 @@ payload:
   - DOMAIN-SUFFIX,lxjapp.com
   - DOMAIN-SUFFIX,lxway.com
   - DOMAIN-SUFFIX,ly.com
+  - DOMAIN-SUFFIX,m-team.cc
   - DOMAIN-SUFFIX,m1.run
   - DOMAIN-SUFFIX,m6.run
   - DOMAIN-SUFFIX,m9.run
@@ -2253,7 +2262,6 @@ payload:
   - DOMAIN-SUFFIX,miaopai.com
   - DOMAIN-SUFFIX,miaostreet.com
   - DOMAIN-SUFFIX,miaozhen.com
-  - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,microsoftonline.com
   - DOMAIN-SUFFIX,midasbuy.com
   - DOMAIN-SUFFIX,miercn.com
@@ -2323,7 +2331,6 @@ payload:
   - DOMAIN-SUFFIX,mukewang.com
   - DOMAIN-SUFFIX,mumayi.com
   - DOMAIN-SUFFIX,muomou.com
-  - DOMAIN-SUFFIX,musical.ly
   - DOMAIN-SUFFIX,muwai.com
   - DOMAIN-SUFFIX,muyewx.com
   - DOMAIN-SUFFIX,muzhiwan.com
@@ -2426,7 +2433,6 @@ payload:
   - DOMAIN-SUFFIX,onlinedown.net
   - DOMAIN-SUFFIX,onlinesjtu.com
   - DOMAIN-SUFFIX,onlylady.com
-  - DOMAIN-SUFFIX,ooklaserver.net
   - DOMAIN-SUFFIX,opdown.com
   - DOMAIN-SUFFIX,open.cd
   - DOMAIN-SUFFIX,openapp.run
@@ -2610,6 +2616,7 @@ payload:
   - DOMAIN-SUFFIX,qq.cn.com
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,qq.design
+  - DOMAIN-SUFFIX,qq.net
   - DOMAIN-SUFFIX,qq.wang
   - DOMAIN-SUFFIX,qq.xn--fiqs8s
   - DOMAIN-SUFFIX,qq163.com
@@ -2962,8 +2969,6 @@ payload:
   - DOMAIN-SUFFIX,tenpay.com
   - DOMAIN-SUFFIX,tenxcloud.com
   - DOMAIN-SUFFIX,test-cignacmb.com
-  - DOMAIN-SUFFIX,test-ipv4.com
-  - DOMAIN-SUFFIX,test-ipv6.com
   - DOMAIN-SUFFIX,testwaf.com
   - DOMAIN-SUFFIX,texasholdemcup.com
   - DOMAIN-SUFFIX,texasholdemcup.net
@@ -3137,6 +3142,7 @@ payload:
   - DOMAIN-SUFFIX,upai.com
   - DOMAIN-SUFFIX,upaiyun.com
   - DOMAIN-SUFFIX,upcdn.net
+  - DOMAIN-SUFFIX,update.microsoft.com
   - DOMAIN-SUFFIX,upe.net
   - DOMAIN-SUFFIX,upyun.com
   - DOMAIN-SUFFIX,urselect.com
@@ -3256,6 +3262,7 @@ payload:
   - DOMAIN-SUFFIX,windows10zj.com
   - DOMAIN-SUFFIX,windows7en.com
   - DOMAIN-SUFFIX,windowsupdate.com
+  - DOMAIN-SUFFIX,windowsupdate.microsoft.com
   - DOMAIN-SUFFIX,windowszj.com
   - DOMAIN-SUFFIX,winegame.net
   - DOMAIN-SUFFIX,winwin7.com
@@ -3475,6 +3482,7 @@ payload:
   - DOMAIN-SUFFIX,ypppt.com
   - DOMAIN-SUFFIX,yqb.com
   - DOMAIN-SUFFIX,yrz.name
+  - DOMAIN-SUFFIX,ysepay.com
   - DOMAIN-SUFFIX,yslyhr.com
   - DOMAIN-SUFFIX,ysten.com
   - DOMAIN-SUFFIX,ytzq.com

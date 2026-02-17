@@ -1,15 +1,15 @@
 # NAME: Apple
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-10-03 02:11:23
-# DOMAIN: 10
+# UPDATED: 2026-02-16 02:08:24
+# DOMAIN: 9
 # DOMAIN-KEYWORD: 7
-# DOMAIN-SUFFIX: 1549
+# DOMAIN-SUFFIX: 1550
 # IP-CIDR: 10
+# IP-CIDR6: 3
 # PROCESS-NAME: 13
-# TOTAL: 1589
+# TOTAL: 1592
 payload:
-  - 'appldnld.apple.com.edgesuite.net'
   - 'apple-events.akamaized.net'
   - 'appleworldwidedeveloper.hb-api.omtrdc.net'
   - 'appleworldwidedeveloper.sc.omtrdc.net'
@@ -67,6 +67,7 @@ payload:
   - '+.appl.com'
   - '+.appl4e.com'
   - '+.appla.com'
+  - '+.appldnld.apple.com.edgesuite.net'
   - '+.apple-darwin.com'
   - '+.apple-darwin.net'
   - '+.apple-darwin.org'
@@ -816,7 +817,6 @@ payload:
   - '+.ibeatsbydre.com'
   - '+.ichat.co.in'
   - '+.icloud-content.com.cn'
-  - '+.icloud-sandbox.com'
   - '+.idvd.eu'
   - '+.igoshopping.net'
   - '+.ikids.com'
@@ -1211,6 +1211,48 @@ payload:
   - '+.darwinsource.com'
   - '+.darwinsource.org'
   - '+.darwinsourcecode.com'
+  - '+.icloud-apple.cn'
+  - '+.icloud-content.com'
+  - '+.icloud-isupport.com'
+  - '+.icloud-sandbox.com'
+  - '+.icloud.ch'
+  - '+.icloud.com'
+  - '+.icloud.com.cn'
+  - '+.icloud.de'
+  - '+.icloud.ee'
+  - '+.icloud.fi'
+  - '+.icloud.fr'
+  - '+.icloud.hu'
+  - '+.icloud.ie'
+  - '+.icloud.is'
+  - '+.icloud.jp'
+  - '+.icloud.lv'
+  - '+.icloud.net.cn'
+  - '+.icloud.om'
+  - '+.icloud.org'
+  - '+.icloud.pt'
+  - '+.icloud.ro'
+  - '+.icloud.se'
+  - '+.icloud.si'
+  - '+.icloud.sk'
+  - '+.icloud.vn'
+  - '+.icloudads.net'
+  - '+.icloudapple.cn'
+  - '+.icloudbox.net'
+  - '+.icloudbrowser.net'
+  - '+.icloude.com'
+  - '+.icloudhome.com'
+  - '+.icloudmail.net'
+  - '+.icloudmusic.net'
+  - '+.icloudnet.net'
+  - '+.icloudo.com'
+  - '+.icloudo.de'
+  - '+.icloudo.net'
+  - '+.icloudos.de'
+  - '+.icloudos.net'
+  - '+.icloudpay.net'
+  - '+.icloudsecure.net'
+  - '+.icloudsetup.com'
   - '+.ids-apple.com'
   - '+.itun.es'
   - '+.itunbes.com'

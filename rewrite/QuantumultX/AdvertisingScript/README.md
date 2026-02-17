@@ -12,37 +12,19 @@
 
 ## 规则统计
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-最后更新时间：2022-11-04 02:38:34
-=======
-最后更新时间：2023-10-27 02:15:06
->>>>>>> upstream/master
-=======
-最后更新时间：2024-07-03 16:18:43
->>>>>>> upstream/master
+最后更新时间：2025-07-16 02:12:05
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-<<<<<<< HEAD
-| HOST | 3  | 
-| IP-CIDR | 1  | 
+| HOST | 8  | 
+| IP-CIDR | 2  | 
 | IP6-CIDR | 1  | 
-| USER-AGENT | 1  | 
 | HTTP-REQUEST-SCRIPT | 1  | 
-| HTTP-RESPONSE-SCRIPT | 28  | 
-| REJECT | 18  | 
+| HTTP-RESPONSE-SCRIPT | 31  | 
+| REJECT | 3  | 
 | MITM | 23  | 
-| TOTAL | 76  | 
-=======
-| HOST | 5  | 
-| HTTP-REQUEST-SCRIPT | 1  | 
-| HTTP-RESPONSE-SCRIPT | 33  | 
-| REJECT | 14  | 
-| MITM | 28  | 
-| TOTAL | 81  | 
->>>>>>> upstream/master
+| TOTAL | 69  | 
 
 
 ## QuantumultX 
@@ -96,7 +78,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《脚本去广告》的数据来自以下链接，如与本项目的《脚本去广告》规则混合使用，可能造成部分重写重复。
 
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.lnplugin
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zheye/zheye.lnplugin
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.lnplugin
 

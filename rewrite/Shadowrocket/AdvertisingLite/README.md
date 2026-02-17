@@ -20,34 +20,14 @@ AdvertisingLite 不直接抽取数据源中MITM的hostname，仅用正则推导�
 
 ## 规则统计
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-最后更新时间：2022-11-03 17:11:53
-=======
-最后更新时间：2023-11-20 02:18:54
->>>>>>> upstream/master
-=======
-最后更新时间：2024-10-02 02:16:16
->>>>>>> upstream/master
+最后更新时间：2025-07-28 02:12:29
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-<<<<<<< HEAD
-<<<<<<< HEAD
-| REJECT | 363  | 
-| MITM | 299  | 
-| TOTAL | 662  | 
-=======
-| REJECT | 540  | 
-| MITM | 445  | 
-| TOTAL | 985  | 
->>>>>>> upstream/master
-=======
-| REJECT | 1160  | 
-| MITM | 856  | 
-| TOTAL | 2016  | 
->>>>>>> upstream/master
+| REJECT | 1229  | 
+| MITM | 902  | 
+| TOTAL | 2131  | 
 
 
 ## Shadowrocket 
@@ -90,9 +70,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.qxrewrite
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Rewrite/Rewrite.list
 - https://raw.githubusercontent.com/GFBG-IT/QuantumultX/main/Advertising.conf
-- https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/StartUp.conf
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdvertisingLite/AdvertisingLite.list
-- https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/chongxie.txt
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

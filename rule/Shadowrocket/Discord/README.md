@@ -12,13 +12,13 @@ Discord规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-07-03 16:16:11
+最后更新时间：2025-06-06 09:16:55
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 28  | 
-| TOTAL | 28  | 
+| DOMAIN-SUFFIX | 29  | 
+| TOTAL | 29  | 
 
 
 ## Shadowrocket 

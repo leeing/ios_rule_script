@@ -18,47 +18,21 @@ QuantumultX需要添加部分分流规则才能生效，具体配置请参照数
 
 ## 规则统计
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-最后更新时间：2022-11-03 17:11:46
-=======
-最后更新时间：2023-11-20 02:18:43
->>>>>>> upstream/master
-=======
-最后更新时间：2024-10-02 02:15:56
->>>>>>> upstream/master
+最后更新时间：2025-09-04 02:13:23
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-<<<<<<< HEAD
-| DOMAIN | 3  | 
-| IP-CIDR | 1  | 
+| DOMAIN | 8  | 
+| IP-CIDR | 2  | 
 | IP-CIDR6 | 1  | 
-=======
-| DOMAIN | 5  | 
->>>>>>> upstream/master
 | HTTP-REQUEST-SCRIPT | 1  | 
-| HTTP-RESPONSE-SCRIPT | 25  | 
+| HTTP-RESPONSE-SCRIPT | 21  | 
 | REDIRECT | 8  | 
-<<<<<<< HEAD
-<<<<<<< HEAD
-| REJECT | 385  | 
-| MITM | 426  | 
+| REJECT | 698  | 
+| MITM | 740  | 
 | FORCE-HTTP-ENGINE-HOSTS | 6  | 
-| TOTAL | 859  | 
-=======
-| REJECT | 688  | 
-| MITM | 722  | 
-| FORCE-HTTP-ENGINE-HOSTS | 6  | 
-| TOTAL | 1455  | 
->>>>>>> upstream/master
-=======
-| REJECT | 692  | 
-| MITM | 726  | 
-| FORCE-HTTP-ENGINE-HOSTS | 6  | 
-| TOTAL | 1463  | 
->>>>>>> upstream/master
+| TOTAL | 1485  | 
 
 
 ## Stash 
@@ -102,8 +76,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Upgrade/Upgrade.qxrewrite
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Rewrite/Rewrite.list
 - https://raw.githubusercontent.com/GFBG-IT/QuantumultX/main/Advertising.conf
-- https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/Advertising.plugin
-- https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/StartUp.conf
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zheye/zheye.lnplugin
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.lnplugin
 - https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/cleanup.snippet

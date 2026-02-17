@@ -1,41 +1,22 @@
 # NAME: AllInOne
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-<<<<<<< HEAD
-<<<<<<< HEAD
-# UPDATED: 2022-11-18 02:10:26
-# HOST: 2
-# IP-CIDR: 1
+# UPDATED: 2025-08-26 02:12:33
+# HOST: 8
+# IP-CIDR: 2
 # IP6-CIDR: 1
-# USER-AGENT: 1
-=======
-# UPDATED: 2023-11-20 02:18:46
-=======
-# UPDATED: 2024-10-02 02:15:58
->>>>>>> upstream/master
-# HOST: 5
->>>>>>> upstream/master
 # HTTP-REQUEST-SCRIPT: 3
-# HTTP-RESPONSE-SCRIPT: 33
+# HTTP-RESPONSE-SCRIPT: 31
 # REDIRECT: 62
-<<<<<<< HEAD
-<<<<<<< HEAD
-# REJECT: 479
-# MITM: 487
-# TOTAL: 1064
-=======
-# REJECT: 790
-# MITM: 726
-# TOTAL: 1619
-=======
-# REJECT: 753
-# MITM: 720
-# TOTAL: 1576
->>>>>>> upstream/master
+# REJECT: 759
+# MITM: 733
+# TOTAL: 1599
+HOST,apm.zhihu.com,AdvertisingScript
 HOST,appcloud.zhihu.com,AdvertisingScript
 >>>>>>> upstream/master
 HOST,appcloud2.in.zhihu.com,AdvertisingScript
 HOST,crash2.zhihu.com,AdvertisingScript
+HOST,duga.zhihu.com,AdvertisingScript
 HOST,mqtt.zhihu.com,AdvertisingScript
 <<<<<<< HEAD
 IP-CIDR,118.89.204.198/32,AdvertisingScript
@@ -43,4 +24,7 @@ IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,AdvertisingScript
 USER-AGENT,AVOS*,AdvertisingScript
 =======
 HOST,sugar.zhihu.com,AdvertisingScript
->>>>>>> upstream/master
+HOST,zxid-m.mobileservice.cn,AdvertisingScript
+IP-CIDR,103.41.167.237/32,AdvertisingScript
+IP-CIDR,118.89.204.198/32,AdvertisingScript
+IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,AdvertisingScript
