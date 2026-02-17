@@ -1,0 +1,57 @@
+name: Sync Upstream
+
+on:
+  schedule:
+    # 每天 UTC 04:00（北京时间 12:00）自动执行
+    - cron: '0 4 * * *'
+  workflow_dispatch: # 支持手动触发
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout fork
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Add upstream remote
+        run: git remote add upstream https://github.com/blackmatrix7/ios_rule_script.git
+
+      - name: Fetch upstream
+        run: git fetch upstream master
+
+      - name: Check for new commits
+        id: check
+        run: |
+          COUNT=$(git rev-list --count HEAD..upstream/master)
+          echo "new_commits=$COUNT" >> "$GITHUB_OUTPUT"
+          echo "Upstream has $COUNT new commit(s)"
+
+      - name: Merge upstream (accept theirs on conflicts)
+        if: steps.check.outputs.new_commits != '0'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # 合并，冲突时接受上游内容（本地自定义文件以 *-lee 命名，不会冲突）
+          git merge -s recursive -X theirs upstream/master \
+            -m "chore: auto-sync upstream $(date -u +%Y-%m-%d)"
+
+          # 检查并修复残留 conflict markers
+          CONFLICT_FILES=$(grep -rl '<<<<<<< HEAD' . 2>/dev/null || true)
+          if [ -n "$CONFLICT_FILES" ]; then
+            echo "Fixing residual conflict markers in:"
+            echo "$CONFLICT_FILES"
+            echo "$CONFLICT_FILES" | xargs git checkout upstream/master --
+            git add -A
+            git commit -m "fix: resolve residual conflict markers"
+          fi
+
+      - name: Push
+        if: steps.check.outputs.new_commits != '0'
+        run: git push origin master
