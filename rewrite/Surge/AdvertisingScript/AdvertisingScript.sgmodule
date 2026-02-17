@@ -4,37 +4,19 @@
 #!repo=https://github.com/blackmatrix7/ios_rule_script
 #!category=blackmatrix7
 #!domain=5
->>>>>>> upstream/master
 #!url-regex=4
 #!http-request-script=1
-<<<<<<< HEAD
-<<<<<<< HEAD
-#!http-response-script=28
-#!reject=18
-#!mitm=23
-#!total=80
-=======
-#!http-response-script=24
-#!reject=12
-=======
 #!http-response-script=25
 #!reject=11
->>>>>>> upstream/master
 #!mitm=21
 #!total=67
->>>>>>> upstream/master
 
 [Rule]
 DOMAIN,appcloud.zhihu.com,REJECT
 DOMAIN,appcloud2.in.zhihu.com,REJECT
 DOMAIN,crash2.zhihu.com,REJECT
 DOMAIN,mqtt.zhihu.com,REJECT
-<<<<<<< HEAD
-IP-CIDR,118.89.204.198/32,REJECT,no-resolve
-IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,REJECT,no-resolve
-=======
 DOMAIN,sugar.zhihu.com,REJECT
->>>>>>> upstream/master
 URL-REGEX,^https?:\/\/api\.zhihu\.com\/brand\/question\/\d+/card\?,REJECT
 URL-REGEX,^https?:\/\/api\.zhihu\.com\/commercial_api\/launch_v2\?,REJECT
 URL-REGEX,^https?:\/\/api\.zhihu\.com\/commercial_api\/real_time_launch_v2\?,REJECT

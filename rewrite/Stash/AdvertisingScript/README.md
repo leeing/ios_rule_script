@@ -17,23 +17,12 @@
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-<<<<<<< HEAD
-| DOMAIN | 3  | 
-| IP-CIDR | 1  | 
-| IP-CIDR6 | 1  | 
-| HTTP-REQUEST-SCRIPT | 1  | 
-| HTTP-RESPONSE-SCRIPT | 28  | 
-| REJECT | 18  | 
-| MITM | 23  | 
-| TOTAL | 75  | 
-=======
 | DOMAIN | 5  | 
 | HTTP-REQUEST-SCRIPT | 1  | 
 | HTTP-RESPONSE-SCRIPT | 25  | 
 | REJECT | 11  | 
 | MITM | 21  | 
 | TOTAL | 63  | 
->>>>>>> upstream/master
 
 
 ## Stash 

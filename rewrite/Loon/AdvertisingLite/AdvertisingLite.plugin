@@ -113,13 +113,6 @@
 ^https:\/\/s\.jiediankeji\.com\/adv - reject-dict
 ^https:\/\/se-api\.djiits\.com\/api\/components\/launch_ad\.json\?abbrv_url=1&country=cn&language=zh-CN - reject-dict
 ^https:\/\/service\.haiersmarthomes\.com\/management\/banner\/getBannerList\?source=4 - reject-dict
-<<<<<<< HEAD
-^https:\/\/vip7\.fzwdyy\.cn:8083\/api\/(getAdvertInfo|getGOOGAdvert) - reject
-^https?://api-mifit-cn2\.zepp\.com/discovery/mi/cards/(startpage_ad|homepage_ad)\? - reject
-^https?://newclient\.map\.baidu\.com/client/crossmarketing - reject
-^https?://newclient\.map\.baidu\.com/client/usersystem/home/dynamic - reject
->>>>>>> upstream/master
-=======
 ^https:\/\/smarket\.dian\.so - reject-dict
 ^https:\/\/spamblocker-api\.zeekstudio\.com\/profile - reject-dict
 ^https:\/\/status\.boohee\.com\/api\/v1\/merged_messages$ - reject-dict
@@ -231,7 +224,6 @@
 ^https?:\/\/ams-cdn\.cdtft\.cn\/prod\/tft-ams\/ - reject-dict
 ^https?:\/\/ap\.dongqiudi\.com\/plat\/v - reject
 ^https?:\/\/api-ac\.liepin\.com\/api\/com\.liepin\.cyclops\.live\.get-ad-cards - reject-dict
->>>>>>> upstream/master
 ^https?:\/\/api-access\.pangolin-sdk-toutiao\.com\/api\/ad\/union\/sdk\/get_ads - reject
 ^https?:\/\/api-ad-product\.huxiu\.com\/Api\/Product\/SDK\/Advert\/Query\/queryAdvertListInfo - reject
 ^https?:\/\/api-chat\.soulapp\.cn\/chat\/entrance\/first - reject-dict
@@ -492,12 +484,6 @@
 ^https?:\/\/capis(-?\w*)?\.didapinche\.com\/ad\/ride\/detail\? - reject-dict
 ^https?:\/\/capis(-?\w*)?\.didapinche\.com\/publish\/api\/upgrade - reject-dict
 ^https?:\/\/capis(-\d)?\.didapinche\.com\/ad\/ - reject
-<<<<<<< HEAD
-^https?:\/\/capis\.didapinche\.com\/ad\/ - reject-200
-^https?:\/\/carapp\.gtmc\.com\.cn\/api\/appgtmc\/homePage\/HomePageAction\/queryHomePageImg\.json - reject
-^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-base\/base\/app\/ad\/ - reject
-^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-base\/base\/app\/appVersion\/detectionUpgrade - reject
-=======
 ^https?:\/\/capis-slb\.didapinche\.com\/ad\/ - reject
 ^https?:\/\/carapp\.gtmc\.com\.cn\/api\/appgtmc\/homePage\/HomePageAction\/queryHomePageImg\.json - reject-200
 ^https?:\/\/careapi\.oclean\.com\/mall\/v\d\/Temporary\/SafetyGetStartAdvert - reject-200
@@ -505,7 +491,6 @@
 ^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-base\/base\/app\/appVersion\/detectionUpgrade - reject-200
 ^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-video\/video\/app\/video\/labelClusterList - reject-dict
 ^https?:\/\/cdn-evone-ceph\.echargenet\.com\/gw-emas-cdn - reject-200
->>>>>>> upstream/master
 ^https?:\/\/cdn-evone-ceph\.echargenet\.com\/gw-emas-cdn\/63c4e3b558bb610008969f89 - reject-200
 ^https?:\/\/cdn-oss\.00bang\.cn\/image\/LLB_OSS2FC543D52E7447678660A4D9EC4F6C60\.jpg - reject-200
 ^https?:\/\/cdn-oss\.00bang\.cn\/image\/LLB_OSS32D553B6981546909417BEF3B7A3BC4D\.jpg - reject-200
@@ -784,7 +769,6 @@
 ^https?:\/\/j1\.pupuapi\.com\/client\/marketing\/banner\/v7\?position - reject
 ^https?:\/\/j1\.pupuapi\.com\/client\/marketing\/banner\/v7\?position_types=(?!2)(.*)&store_id - reject
 ^https?:\/\/j5\.dfcfw\.com\/WG\/conf\/202[0-9]{5}/.*.(jpg|png) - reject-200
->>>>>>> upstream/master
 ^https?:\/\/jad-api\.jin10\.com\/ad - reject
 ^https?:\/\/jdread-api\.jd\.com\/jdread\/api\/channel\/module\/opens - reject-200
 ^https?:\/\/jdread-api\.jd\.com\/jdread\/api\/popup - reject-200
@@ -922,14 +906,6 @@
 ^https?:\/\/ndstatic\.cdn\.bcebos\.com\/activity\/welfare\/index\.html - reject
 ^https?:\/\/ndstatic\.cdn\.bcebos\.com\/activity\/welfare\/js\/.+\.js - reject
 ^https?:\/\/new-app-api\.ylyk\.com\/v1\/user\/myinfo\/adviser - reject
-<<<<<<< HEAD
-^https?:\/\/newclient\.map\.baidu\.com\/client\/phpui2\/\?qt=ads - reject
-^https?:\/\/news\.ssp\.qq\.com\/app - reject-200
-^https?:\/\/nnapp\.cloudbae\.cn(:\d+)?\/mc\/api\/advert - reject-200
-^https?:\/\/nochange\.ggsafe\.com\/ad\/ - reject-200
-^https?:\/\/notch\.qdaily\.com\/api\/v\d\/boot_ad - reject-200
-^https?:\/\/oimage([a-z])([0-9])\.ydstatic\.com\/.+?adpublish - reject-200
-=======
 ^https?:\/\/newapp2\.szsmk\.com\/app\/config\/queryMainAd - reject-200
 ^https?:\/\/newclient\.map\.baidu\.com\/client\/phpui2\/\?qt=ads - reject
 ^https?:\/\/news\.ssp\.qq\.com\/app - reject
@@ -945,7 +921,6 @@
 ^https?:\/\/ok\.166\.net\/reunionpub\/202[2-9]{1}-[0-9]{2}-[0-9]{2}\/ntesgod_cms\/.*.jpg$ - reject-200
 ^https?:\/\/oneapp-api\.faw-vw\.com\/content\/.*Code=VWAPP_ICE_OPEN_SCREEN_ADS - reject-200
 ^https?:\/\/oneapph5\.dongfeng-nissan\.com\.cn\/mb-gw\/vmsp-discover\/rest\/business-service\/v1\/advert\/advertinfo - reject-dict
->>>>>>> upstream/master
 ^https?:\/\/open3\.vistastory\.com\/v3\/api.*get_popup - reject
 ^https?:\/\/open3\.vistastory\.com\/v3\/api\/index\/loading_ad - reject
 ^https?:\/\/open\.78dm\.net\/v\d\/site\/ad\/ - reject-200
@@ -960,7 +935,6 @@
 ^https?:\/\/oral\.youdao\.com\/oral\/adInfo - reject-img
 ^https?:\/\/osg-service\.sgcc\.com\.cn:18600\/emss-pfa-appset-front\/bootpageoutter\/ - reject-dict
 ^https?:\/\/ossweb-img\.qq\.com\/upload\/adw\/image\/[0-9]{3}\/202[0-9]{5}\/[a-z0-9]{32}\.(jpg|jpeg) - reject-200
->>>>>>> upstream/master
 ^https?:\/\/otheve\.beacon\.qq\.com\/analytics\/upload\?sid=.* - reject
 ^https?:\/\/overseas\.weico\.cc\/portal\.php\?a=get_coopen_ads - reject-200
 ^https?:\/\/oxadmin\.cp\.com\.cn\/api\/advertise\/banner - reject-dict
@@ -1184,12 +1158,6 @@
 ^https?:\/\/www\.icourse163\.org\/mob\/j\/v1\/mobRecommendRPCBean\.getMaxWeightAdvertisement\.rpc - reject-200
 ^https?:\/\/www\.inoreader\.com\/adv\/ - reject
 ^https?:\/\/www\.iyingdi\.cn\/ad - reject-200
-<<<<<<< HEAD
-^https?:\/\/www\.myhug\.cn\/ad\/ - reject-200
-^https?:\/\/www\.shihuo\.cn\/app\d\/saveAppInfo - reject-200
-^https?:\/\/www\.xiaohongshu\.com\/api\/sns\/v\d\/ads\/ - reject-200
-^https?:\/\/www\.xiaohongshu\.com\/api\/sns\/v\d\/system_service\/splash_config - reject
-=======
 ^https?:\/\/www\.kujiale\.com\/app\/queryOpenPage - reject-200
 ^https?:\/\/www\.nfmovies\.com\/pic\/tu\/ - reject-img
 ^https?:\/\/www\.nfmovies\.com\/templets\/default\/images\/logos - reject-img
@@ -1217,7 +1185,6 @@
 ^https?:\/\/yanxuan\.nosdn\.127\.net\/.*\.mp4 - reject
 ^https?:\/\/ytmsout\.radio\.cn\/publish\/recScreen\/getLoadPage - reject-dict
 ^https?:\/\/yun\.tuitiger\.com\/mami-media - reject-200
-^https?:\/\/yunbusiness\.ccb\.com\/clp_service\/txCtrl\?txcode=(A3341A002|A3341A009) - reject-200
 ^https?:\/\/yunbusiness\.ccb\.com\/clp_service\/txCtrl\?txcode=A3341A002 - reject-200
 ^https?:\/\/yxyapi2\.yuxueyuan\.cn\/yxy-api-gateway\/api\/json\/advert\/getsAdStartScreen - reject-200
 ^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxy-api-gateway\/api\/json\/advert\/ - reject

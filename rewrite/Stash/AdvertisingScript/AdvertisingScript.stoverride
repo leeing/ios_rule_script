@@ -8,7 +8,6 @@ desc: 最后更新时间 2025-06-06 09:20:18
 # reject: 11
 # mitm: 21
 # total: 63
->>>>>>> upstream/master
 
 
 
@@ -17,12 +16,7 @@ rules:
   - DOMAIN,appcloud2.in.zhihu.com,REJECT
   - DOMAIN,crash2.zhihu.com,REJECT
   - DOMAIN,mqtt.zhihu.com,REJECT
-<<<<<<< HEAD
-  - IP-CIDR,118.89.204.198/32,REJECT
-  - IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,REJECT
-=======
   - DOMAIN,sugar.zhihu.com,REJECT
->>>>>>> upstream/master
 
 
 http:

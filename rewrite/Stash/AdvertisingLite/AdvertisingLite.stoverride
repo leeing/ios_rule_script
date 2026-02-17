@@ -13,19 +13,6 @@ desc: 最后更新时间 2025-07-12 02:12:05
 
 http:
   rewrite:
-<<<<<<< HEAD
-    - (?i)\btc\.qq\.com\/[\w\/\.-]+[a-z]\d+\.mp4\? - reject
-    - ^https:\/\/god\.gameyw\.netease\.com\/v1\/ad\/.* - reject
-    - ^https?://ads-img-al\.xhscdn\.com/hera/ - reject
-    - ^https?://cdn\.fivecdm\.com/cr/ - reject
-    - ^https?://cn-acs\.m\.cainiao\.com/gw/mtop\.cainiao\.guoguo\.nbnetflow\.ads\.(show|mshow)\.cn/ - reject
-    - ^https?://img2\.autoimg\.cn/admdfs/ - reject
-    - ^https?://m\d\.amap\.com/ws/message/notice/list? - reject
-    - ^https?://oss\.umetrip\.com/fs/advert/polite/ - reject
-    - ^https?://sns\.amap\.com/ws/msgbox/pull? - reject
-    - ^https?://ssp\.dzh\.com\.cn/v2api/adgroupjson - reject
-    - ^https?://venus\.yhd\.com/memhome/launchConfig - reject
-=======
     - ^http:\/\/apicloud\.zol\.com\.cn\/Article\/WapLaunchLogo - reject
     - ^http:\/\/ebk\.17u\.cn\/tctrafficappversionadmin\/api\/getLatestVersionApp - reject
     - ^http:\/\/gateway2\.etnet\.com\.hk\/etnetApp\/theme\/seasonal\/v30\/theme.json - reject
@@ -240,7 +227,6 @@ http:
     - ^https?:\/\/ams-cdn\.cdtft\.cn\/prod\/tft-ams\/ - reject
     - ^https?:\/\/ap\.dongqiudi\.com\/plat\/v - reject
     - ^https?:\/\/api-ac\.liepin\.com\/api\/com\.liepin\.cyclops\.live\.get-ad-cards - reject
->>>>>>> upstream/master
     - ^https?:\/\/api-access\.pangolin-sdk-toutiao\.com\/api\/ad\/union\/sdk\/get_ads - reject
     - ^https?:\/\/api-ad-product\.huxiu\.com\/Api\/Product\/SDK\/Advert\/Query\/queryAdvertListInfo - reject
     - ^https?:\/\/api-chat\.soulapp\.cn\/chat\/entrance\/first - reject
@@ -501,14 +487,9 @@ http:
     - ^https?:\/\/capis(-?\w*)?\.didapinche\.com\/ad\/ride\/detail\? - reject
     - ^https?:\/\/capis(-?\w*)?\.didapinche\.com\/publish\/api\/upgrade - reject
     - ^https?:\/\/capis(-\d)?\.didapinche\.com\/ad\/ - reject
-<<<<<<< HEAD
-    - ^https?:\/\/capis\.didapinche\.com\/ad\/ - reject
-    - ^https?:\/\/carapp\.gtmc\.com\.cn\/api\/appgtmc\/homePage\/HomePageAction\/queryHomePageImg\.json - reject
-=======
     - ^https?:\/\/capis-slb\.didapinche\.com\/ad\/ - reject
     - ^https?:\/\/carapp\.gtmc\.com\.cn\/api\/appgtmc\/homePage\/HomePageAction\/queryHomePageImg\.json - reject
     - ^https?:\/\/careapi\.oclean\.com\/mall\/v\d\/Temporary\/SafetyGetStartAdvert - reject
->>>>>>> upstream/master
     - ^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-base\/base\/app\/ad\/ - reject
     - ^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-base\/base\/app\/appVersion\/detectionUpgrade - reject
     - ^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-video\/video\/app\/video\/labelClusterList - reject
@@ -791,7 +772,6 @@ http:
     - ^https?:\/\/j1\.pupuapi\.com\/client\/marketing\/banner\/v7\?position - reject
     - ^https?:\/\/j1\.pupuapi\.com\/client\/marketing\/banner\/v7\?position_types=(?!2)(.*)&store_id - reject
     - ^https?:\/\/j5\.dfcfw\.com\/WG\/conf\/202[0-9]{5}/.*.(jpg|png) - reject
->>>>>>> upstream/master
     - ^https?:\/\/jad-api\.jin10\.com\/ad - reject
     - ^https?:\/\/jdread-api\.jd\.com\/jdread\/api\/channel\/module\/opens - reject
     - ^https?:\/\/jdread-api\.jd\.com\/jdread\/api\/popup - reject
@@ -929,10 +909,7 @@ http:
     - ^https?:\/\/ndstatic\.cdn\.bcebos\.com\/activity\/welfare\/index\.html - reject
     - ^https?:\/\/ndstatic\.cdn\.bcebos\.com\/activity\/welfare\/js\/.+\.js - reject
     - ^https?:\/\/new-app-api\.ylyk\.com\/v1\/user\/myinfo\/adviser - reject
-<<<<<<< HEAD
-=======
     - ^https?:\/\/newapp2\.szsmk\.com\/app\/config\/queryMainAd - reject
->>>>>>> upstream/master
     - ^https?:\/\/newclient\.map\.baidu\.com\/client\/phpui2\/\?qt=ads - reject
     - ^https?:\/\/news\.ssp\.qq\.com\/app - reject
     - ^https?:\/\/newsuperapp\.ftms\.com\.cn\/app-bff\/.*openScreenPicture - reject
@@ -958,12 +935,9 @@ http:
     - ^https?:\/\/openapi\.boc\.cn\/unlogin\/app\/cbsp\/query_ad_list - reject
     - ^https?:\/\/operationapi\.fosunhanig\.com\/ad\/v\d\/(PopupAdList|ScreenAdList|BannerList) - reject
     - ^https?:\/\/optimus-ads\.amap\.com\/uploadimg\/ - reject
-<<<<<<< HEAD
-=======
     - ^https?:\/\/oral\.youdao\.com\/oral\/adInfo - reject
     - ^https?:\/\/osg-service\.sgcc\.com\.cn:18600\/emss-pfa-appset-front\/bootpageoutter\/ - reject
     - ^https?:\/\/ossweb-img\.qq\.com\/upload\/adw\/image\/[0-9]{3}\/202[0-9]{5}\/[a-z0-9]{32}\.(jpg|jpeg) - reject
->>>>>>> upstream/master
     - ^https?:\/\/otheve\.beacon\.qq\.com\/analytics\/upload\?sid=.* - reject
     - ^https?:\/\/overseas\.weico\.cc\/portal\.php\?a=get_coopen_ads - reject
     - ^https?:\/\/oxadmin\.cp\.com\.cn\/api\/advertise\/banner - reject
@@ -1214,7 +1188,6 @@ http:
     - ^https?:\/\/yanxuan\.nosdn\.127\.net\/.*\.mp4 - reject
     - ^https?:\/\/ytmsout\.radio\.cn\/publish\/recScreen\/getLoadPage - reject
     - ^https?:\/\/yun\.tuitiger\.com\/mami-media - reject
-    - ^https?:\/\/yunbusiness\.ccb\.com\/clp_service\/txCtrl\?txcode=(A3341A002|A3341A009) - reject
     - ^https?:\/\/yunbusiness\.ccb\.com\/clp_service\/txCtrl\?txcode=A3341A002 - reject
     - ^https?:\/\/yxyapi2\.yuxueyuan\.cn\/yxy-api-gateway\/api\/json\/advert\/getsAdStartScreen - reject
     - ^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxy-api-gateway\/api\/json\/advert\/ - reject
@@ -1346,9 +1319,6 @@ http:
     - "api-ac.liepin.com"
     - "api-access.pangolin-sdk-toutiao.com"
     - "api-ad-product.huxiu.com"
-<<<<<<< HEAD
-    - "api-ks.wtzw.com"
-=======
     - "api-cfg.wtzw.com"
     - "api-chat.soulapp.cn"
     - "api-cslp-emt.amazon.cn"
@@ -1559,11 +1529,8 @@ http:
     - "capi.mwee.cn"
     - "capis*.didapinche.com"
     - "carapp.gtmc.com.cn"
-<<<<<<< HEAD
-=======
     - "careapi.oclean.com"
     - "ccmsupport-sz.tenpay.com"
->>>>>>> upstream/master
     - "ccsp-egmas.sf-express.com"
     - "cdke.youdao.com"
     - "cdn-evone-ceph.echargenet.com"
@@ -1800,7 +1767,6 @@ http:
     - "j-image.missfresh.cn"
     - "j1.pupuapi.com"
     - "j5.dfcfw.com"
->>>>>>> upstream/master
     - "jad-api.jin10.com"
     - "jdread-api.jd.com"
     - "js-ad.ayximgs.com.ad-universe-cdn.hzhcbkj.cn"
@@ -1910,10 +1876,7 @@ http:
     - "ndstatic.cdn.bcebos.com"
     - "nelo2-col.linecorp.com"
     - "new-app-api.ylyk.com"
-<<<<<<< HEAD
-=======
     - "newapp2.szsmk.com"
->>>>>>> upstream/master
     - "newclient.map.baidu.com"
     - "news.ssp.qq.com"
     - "newsuperapp.ftms.com.cn"
@@ -1939,18 +1902,10 @@ http:
     - "openapi.boc.cn"
     - "operationapi.fosunhanig.com"
     - "optimus-ads.amap.com"
-<<<<<<< HEAD
-<<<<<<< HEAD
-    - "oss.umetrip.com"
-=======
-    - "otheve.beacon.qq.com"
->>>>>>> upstream/master
-=======
     - "oral.youdao.com"
     - "order-app-api.lbdj.com"
     - "osg-service.sgcc.com.cn"
     - "ossweb-img.qq.com"
->>>>>>> upstream/master
     - "overseas.weico.cc"
     - "oxadmin.cp.com.cn"
     - "p*.meituan.net"

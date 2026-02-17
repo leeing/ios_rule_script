@@ -22,10 +22,6 @@ DOMAIN,appcloud2.in.zhihu.com,REJECT
 DOMAIN,crash2.zhihu.com,REJECT
 DOMAIN,duga.zhihu.com,REJECT
 DOMAIN,mqtt.zhihu.com,REJECT
-<<<<<<< HEAD
-IP-CIDR,118.89.204.198/32,REJECT,no-resolve
-IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,REJECT,no-resolve
-=======
 DOMAIN,sugar.zhihu.com,REJECT
 DOMAIN,zxid-m.mobileservice.cn,REJECT
 IP-CIDR,103.41.167.237/32,REJECT,no-resolve
@@ -150,12 +146,6 @@ URL-REGEX,^https?:\/\/api\.zhihu\.com\/settings\/new\/notification,REJECT
 ^https:\/\/wxapp\.bestwehotel\.com\/gw3\/app-mini\/trip-hotel-banner\/activity\/getActivityInfo - reject-dict
 ^https:\/\/wxproj\.seeyouyima\.com\/data\/today_tips - reject-dict
 ^https:\/\/wxs-weixin\.sd\.zhumanggroup\.com\/api\/v2\/ad - reject-dict
-<<<<<<< HEAD
-^https?://api-mifit-cn2\.zepp\.com/discovery/mi/cards/(startpage_ad|homepage_ad)\? - reject
-^https?://newclient\.map\.baidu\.com/client/crossmarketing - reject
-^https?://newclient\.map\.baidu\.com/client/usersystem/home/dynamic - reject
->>>>>>> upstream/master
-=======
 ^https?://advertise\.bczeducation\.cn\/rpc\/advertise - reject-200
 ^https?://api-mifit-cn2\.zepp\.com/discovery/mi/cards/(startpage_ad|homepage_ad)\? - reject
 ^https?://mbasecc\.bas\.cmbchina\.com/Edge/api/mlife\.clientface\.clientservice\.api\.advertiseService/preCacheAdvertiseSec - reject
@@ -380,7 +370,6 @@ URL-REGEX,^https?:\/\/api\.zhihu\.com\/settings\/new\/notification,REJECT
 ^https?:\/\/capis-slb\.didapinche\.com\/ad\/ - reject
 ^https?:\/\/carapp\.gtmc\.com\.cn\/api\/appgtmc\/homePage\/HomePageAction\/queryHomePageImg\.json - reject-200
 ^https?:\/\/careapi\.oclean\.com\/mall\/v\d\/Temporary\/SafetyGetStartAdvert - reject-200
->>>>>>> upstream/master
 ^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-base\/base\/app\/ad\/ - reject-dict
 ^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-base\/base\/app\/appVersion\/detectionUpgrade - reject-dict
 ^https?:\/\/cdn-evone-ceph\.echargenet\.com\/gw-emas-cdn - reject-200
@@ -582,10 +571,7 @@ URL-REGEX,^https?:\/\/api\.zhihu\.com\/settings\/new\/notification,REJECT
 ^https?:\/\/ms\.jr\.jd\.com\/gw\/generic\/base\/(new)?na\/m\/adInfo - reject
 ^https?:\/\/msg\.umengcloud\.com\/admsg\/ - reject
 ^https?:\/\/new-app-api\.ylyk\.com\/v1\/user\/myinfo\/adviser - reject
-<<<<<<< HEAD
-=======
 ^https?:\/\/newapp2\.szsmk\.com\/app\/config\/queryMainAd - reject-200
->>>>>>> upstream/master
 ^https?:\/\/newclient\.map\.baidu\.com\/client\/phpui2\/\?qt=ads - reject
 ^https?:\/\/news\.ssp\.qq\.com\/app - reject
 ^https?:\/\/newsuperapp\.ftms\.com\.cn\/app-bff\/.*openScreenPicture - reject-200
