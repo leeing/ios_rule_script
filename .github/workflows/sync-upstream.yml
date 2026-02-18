@@ -38,19 +38,28 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+          # 备份 fork 独有的 workflow 文件（上游没有，合并可能破坏）
+          cp .github/workflows/sync-upstream.yml /tmp/sync-upstream.yml.bak
+
           # 合并，冲突时接受上游内容（本地自定义文件以 *-lee 命名，不会冲突）
           git merge -s recursive -X theirs upstream/master \
-            -m "chore: auto-sync upstream $(date -u +%Y-%m-%d)"
+            -m "chore: auto-sync upstream $(date -u +%Y-%m-%d)" || true
 
-          # 检查并修复残留 conflict markers
-          CONFLICT_FILES=$(grep -rl '<<<<<<< HEAD' . 2>/dev/null || true)
+          # 恢复 fork 独有的 workflow 文件
+          cp /tmp/sync-upstream.yml.bak .github/workflows/sync-upstream.yml
+
+          # 检查并修复残留 conflict markers（排除 workflow 文件自身）
+          CONFLICT_FILES=$(grep -rl '<<<<<<< HEAD' . 2>/dev/null | grep -v 'sync-upstream.yml' || true)
           if [ -n "$CONFLICT_FILES" ]; then
             echo "Fixing residual conflict markers in:"
             echo "$CONFLICT_FILES"
-            echo "$CONFLICT_FILES" | xargs git checkout upstream/master --
-            git add -A
-            git commit -m "fix: resolve residual conflict markers"
+            while IFS= read -r f; do
+              git checkout upstream/master -- "$f" 2>/dev/null || true
+            done <<< "$CONFLICT_FILES"
           fi
+
+          git add -A
+          git diff --cached --quiet || git commit -m "fix: resolve residual conflict markers"
 
       - name: Push
         if: steps.check.outputs.new_commits != '0'
