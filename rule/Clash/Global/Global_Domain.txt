@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-06 02:32:00
+# UPDATED: 2026-05-08 02:36:23
 # DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 33854
+# DOMAIN-SUFFIX: 33884
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 34131
+# TOTAL: 34161
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -1900,6 +1900,7 @@ login.microsoftonline.com
 .anypornhd.com
 .anypornsexxx.com
 .anyshemale.com
+.anythingllm.com
 .anyxxx.me
 .anyxxx.pro
 .aoaou.iillii.net
@@ -12413,6 +12414,7 @@ login.microsoftonline.com
 .icair.ac.uk
 .icashpassport.com.mx
 .icca.ac.uk
+.iccf.com
 .iccliverpool.ac.uk
 .ice-cse.ac.uk
 .iced.ac.uk
@@ -14664,7 +14666,6 @@ login.microsoftonline.com
 .liberapay.org
 .libf.ac.uk
 .libgen.fun
-.libgen.is
 .libgen.life
 .libgen.me
 .libgen.rs
@@ -17431,7 +17432,6 @@ login.microsoftonline.com
 .nfo.ac.uk
 .nfsc.global
 .nfscdict.com
-.nfscofficial.com
 .nfsworld.com
 .nftables.org
 .nftstatic.com
@@ -17947,6 +17947,7 @@ login.microsoftonline.com
 .ntyneside.ac.uk
 .nu-bay.com
 .nu-sense.ac.uk
+.nu36.vip
 .nua.ac.uk
 .nubilefilms.com
 .nubiles-casting.com
@@ -18301,6 +18302,7 @@ login.microsoftonline.com
 .onani-daisuki.com
 .onbeatsbydresale.com
 .oncars.in
+.ondigitalocean.com
 .one889.app
 .oneapi.com
 .oneapi.io
@@ -18408,6 +18410,7 @@ login.microsoftonline.com
 .opensource.guide
 .opensourceinsight.dev
 .opensourceinsights.dev
+.openspec.dev
 .openssl.org
 .openstemlab.ac.uk
 .openstemlabs.ac.uk
@@ -22885,6 +22888,7 @@ login.microsoftonline.com
 .supplybestjerseys.com
 .support-uber.com
 .supportfacebook.com
+.supr.cl
 .supremacy.com
 .supremacy.net
 .sureporn.com
@@ -24081,6 +24085,7 @@ login.microsoftonline.com
 .twidouga.net
 .twidouga.tv
 .twifuli.com
+.twilio.jp
 .twin-research.ac.uk
 .twinkboyfriends.tv
 .twinkspornos.com
@@ -24138,6 +24143,7 @@ login.microsoftonline.com
 .typesquare.com
 .tyre-cadcam.com
 .tyrecadcam.com
+.tytch.com
 .tytng189.com
 .tytporno.online
 .u.nu
@@ -24516,7 +24522,9 @@ login.microsoftonline.com
 .userapi.ru
 .usercentrics.eu
 .usercontent.dev
+.userdrive.org
 .userpxt.io
+.usersdrive.com
 .ushare.ac.uk
 .ushaw.ac.uk
 .uspcollege.ac.uk
@@ -25400,7 +25408,6 @@ login.microsoftonline.com
 .vortexmachining.com
 .votolia.com
 .vows.ac.uk
-.vox.com
 .voxcreative.com
 .voxfieldguide.com
 .voxmedia.com
@@ -27623,6 +27630,7 @@ login.microsoftonline.com
 .accountkit.com
 .aceros-de-hispania.com
 .acevpn.com
+.acg.mn
 .acg.rip
 .acg18.me
 .acgbox.org
@@ -28120,6 +28128,7 @@ login.microsoftonline.com
 .blacklogic.com
 .blackmagicdesign.com
 .blackvpn.com
+.bleepingcomputer.com
 .blewpass.com
 .blingblingsquad.net
 .blinkx.com
@@ -28173,6 +28182,7 @@ login.microsoftonline.com
 .books.com.tw
 .booktopia.com.au
 .bookwalker.com.tw
+.boomplay.com
 .boomssr.com
 .bootstrapcdn.com
 .borgenmagazine.com
@@ -28592,6 +28602,7 @@ login.microsoftonline.com
 .cn6.eu
 .cna.com.tw
 .cnabc.com
+.cnbc.com
 .cnbeta.com.tw
 .cnd.org
 .cnet.com
@@ -28696,6 +28707,7 @@ login.microsoftonline.com
 .ctfriend.net
 .ctinets.com
 .ctinews.com
+.ctinsider.com
 .ctitv.com.tw
 .ctowc.org
 .cts.com.tw
@@ -29049,6 +29061,7 @@ login.microsoftonline.com
 .edgekey.net
 .edgesuite.net
 .edicypages.com
+.edigest.hk
 .edmontonservice.com
 .edns.biz
 .edoors.com
@@ -29931,6 +29944,7 @@ login.microsoftonline.com
 .hitbtc.com
 .hitomi.la
 .hitun.io
+.hive.blog
 .hiveon.net
 .hiwifi.com
 .hizb-ut-tahrir.info
@@ -30230,6 +30244,7 @@ login.microsoftonline.com
 .inf.news
 .info-graf.fr
 .informer.com
+.infosec.exchange
 .infura.io
 .ingress.com
 .inherit.live
@@ -30498,6 +30513,7 @@ login.microsoftonline.com
 .karmapa-teachings.org
 .karmapa.org
 .kat.cr
+.kathmandupost.com
 .kawaiikawaii.jp
 .kawase.com
 .kba-tx.org
@@ -30643,6 +30659,7 @@ login.microsoftonline.com
 .liberal.org.hk
 .libertysculpturepark.com
 .libertytimes.com.tw
+.libgen.is
 .library-access.sk
 .libraryinformationtechnology.com
 .libredd.it
@@ -30855,6 +30872,7 @@ login.microsoftonline.com
 .mediachinese.com
 .mediafire.com
 .mediafreakcity.com
+.mediamatters.org
 .mediawiki.org
 .medium.com
 .meee.com.tw
@@ -30985,6 +31003,7 @@ login.microsoftonline.com
 .mizzmona.com
 .mji.rip
 .mjj.rip
+.mjj.today
 .mk5000.com
 .mlc.ai
 .mlcool.com
@@ -31241,12 +31260,14 @@ login.microsoftonline.com
 .newscn.org
 .newsdetox.ca
 .newsdh.com
+.newshub.co.nz
 .newsmax.com
 .newspeak.cc
 .newstamago.com
 .newstapa.org
 .newstarnet.com
 .newstatesman.com
+.newstimes.com
 .newsweek.com
 .newtaiwan.com.tw
 .newtalk.tw
@@ -31267,6 +31288,8 @@ login.microsoftonline.com
 .nflximg.net
 .nflxso.net
 .nflxvideo.net
+.nfsc.press
+.nfscofficial.com
 .nftstorage.link
 .ng.mil
 .nga.mil
@@ -31521,6 +31544,7 @@ login.microsoftonline.com
 .over-blog.com
 .overcast.fm
 .overdaily.org
+.overdrive.com
 .overplay.net
 .ovi.com
 .ovpn.com
@@ -31615,6 +31639,7 @@ login.microsoftonline.com
 .penchinese.com
 .penchinese.net
 .pendrivelinux.com
+.penguin.com.au
 .pengyulong.com
 .penisbot.com
 .pentalogic.net
@@ -32060,6 +32085,7 @@ login.microsoftonline.com
 .rthk.org.hk
 .rti.org.tw
 .rti.tw
+.rts.ch
 .rtycminnesota.org
 .ruanyifeng.com
 .rukor.org
@@ -32711,6 +32737,7 @@ login.microsoftonline.com
 .tgfcer.com
 .tgstat.com
 .thaicn.com
+.the-sun.com
 .theatlantic.com
 .theatrum-belli.com
 .theaustralian.com.au
@@ -32760,6 +32787,7 @@ login.microsoftonline.com
 .thetvdb.com
 .theverge.com
 .thevivekspot.com
+.theweek.com
 .thewgo.org
 .thewirechina.com
 .theync.com
@@ -33050,6 +33078,7 @@ login.microsoftonline.com
 .tvbanywhere.com
 .tvboxnow.com
 .tvbs.com.tw
+.tvdy1.com
 .tvider.com
 .tvmost.com.hk
 .tvplayvideos.com
@@ -33389,6 +33418,7 @@ login.microsoftonline.com
 .vot.org
 .vovo2000.com
 .vox-cdn.com
+.vox.com
 .voxer.com
 .voy.com
 .vpn.ac
