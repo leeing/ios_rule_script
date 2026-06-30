@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-06-26 02:49:18
+# UPDATED: 2026-06-30 02:45:36
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 112110
+# DOMAIN-SUFFIX: 112144
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 112248
+# TOTAL: 112282
 analytics.strava.com
 blzddist1-a.akamaihd.net
 cdn.angruo.com
@@ -11143,6 +11143,7 @@ xtratime.qcomgeo2.com
 +.71k.com
 +.71lady.com
 +.71p.net
++.71shi.net
 +.71tao.com
 +.71tech.com
 +.71txt.com
@@ -12229,6 +12230,7 @@ xtratime.qcomgeo2.com
 +.8liuxing.com
 +.8llp.com
 +.8lun.com
++.8m2.net
 +.8m8t.com
 +.8mcn.com
 +.8mhh.com
@@ -13876,6 +13878,7 @@ xtratime.qcomgeo2.com
 +.adpsh.com
 +.adqtt.net
 +.adquan.com
++.adrkwai.com
 +.ads66.com
 +.ads8.com
 +.adsalecdn.com
@@ -15628,6 +15631,7 @@ xtratime.qcomgeo2.com
 +.aniu.so
 +.aniu.tv
 +.aniworld.tv
++.anixplayer.net
 +.anjgas.com
 +.anji-ceva.com
 +.anji-logistics.com
@@ -16114,6 +16118,7 @@ xtratime.qcomgeo2.com
 +.apowogame.com
 +.apoyl.com
 +.app-router.com
++.app-static.com
 +.app001.com
 +.app0772.com
 +.app111.com
@@ -16602,6 +16607,7 @@ xtratime.qcomgeo2.com
 +.at317.com
 +.at58.com
 +.at78.com
++.at8.fun
 +.at98.com
 +.ata-edu.com
 +.ata-test.net
@@ -22109,6 +22115,7 @@ xtratime.qcomgeo2.com
 +.cantonfairad.com
 +.cantontower.com
 +.canvcan.com
++.canviewone.com
 +.canway.net
 +.canwayit.com
 +.canwaysoft.com
@@ -25335,6 +25342,7 @@ xtratime.qcomgeo2.com
 +.chinaweizheng.com
 +.chinawepon.com
 +.chinawerewolf.com
++.chinawestagr.com
 +.chinawie.com
 +.chinawindnews.com
 +.chinawinjoy.com
@@ -25959,6 +25967,7 @@ xtratime.qcomgeo2.com
 +.cilgroup.org
 +.cilin.org
 +.cilishenqi.cc
++.cilisouou.com
 +.cilogo.com
 +.cim2025.net
 +.cimamotor.com
@@ -26510,6 +26519,7 @@ xtratime.qcomgeo2.com
 +.cm-inv.com
 +.cm-iov.com
 +.cm-worklink.com
++.cm1.hk
 +.cm233.com
 +.cm3721.com
 +.cm442.com
@@ -29705,6 +29715,7 @@ xtratime.qcomgeo2.com
 +.cxumol.com
 +.cxw.com
 +.cxwl.com
++.cxwlad.com
 +.cxxjs.com
 +.cxy521.com
 +.cxy61.com
@@ -30044,6 +30055,7 @@ xtratime.qcomgeo2.com
 +.d1f41d7b74d2717d.com
 +.d1ld.com
 +.d1lx.com
++.d1mgroup.com
 +.d1miao.com
 +.d1mm.com
 +.d1net.com
@@ -33551,6 +33563,7 @@ xtratime.qcomgeo2.com
 +.duiduihuishou.com
 +.duiduilian.com
 +.duiduipengds.com
++.duifene.com
 +.duijie666.com
 +.duikuang.com
 +.duimg.com
@@ -36971,6 +36984,7 @@ xtratime.qcomgeo2.com
 +.fdbatt.com
 +.fdc0746.com
 +.fdcjj.org
++.fdctax.com
 +.fdczbstatic.com
 +.fdd0cd79c10281.beer
 +.fdeent.org
@@ -37035,6 +37049,7 @@ xtratime.qcomgeo2.com
 +.feelnowtrip.com
 +.feelsoar.com
 +.feemoo.com
++.feemoo.hk
 +.feemoo.vip
 +.feepan.com
 +.feeprint.com
@@ -38633,6 +38648,7 @@ xtratime.qcomgeo2.com
 +.fthformal.com
 +.fthgz.com
 +.fthimalayandb.com
++.ftihzjg.com
 +.ftium4.com
 +.ftlcloud.com
 +.ftls.xyz
@@ -40043,6 +40059,7 @@ xtratime.qcomgeo2.com
 +.gdroro.com
 +.gdrqj.org
 +.gdrsrc.com
++.gdrtt.net
 +.gdruien.com
 +.gdruisheng.com
 +.gdrxyy.com
@@ -42489,6 +42506,7 @@ xtratime.qcomgeo2.com
 +.gugu.fun
 +.gugud.com
 +.gugudang.com
++.gugudata.com
 +.guguread.com
 +.gugushuzi.com
 +.guguyu.com
@@ -46287,6 +46305,7 @@ xtratime.qcomgeo2.com
 +.haowen100.com
 +.haowenbo.com
 +.haowenshi.com
++.haowenti.net
 +.haowu.com
 +.haowusong.com
 +.haowuyunji.com
@@ -49080,6 +49099,7 @@ xtratime.qcomgeo2.com
 +.holoalpha.com
 +.holsauto.com
 +.holteksupport.com
++.holy58.com
 +.holymalls.com
 +.holyxiongan.com
 +.home0311.com
@@ -53742,6 +53762,7 @@ xtratime.qcomgeo2.com
 +.innopro.cc
 +.innos.com
 +.innoscience.com
++.innosystemtech.com
 +.innotechx.com
 +.innotek-co.com
 +.innotimegood.com
@@ -54399,6 +54420,7 @@ xtratime.qcomgeo2.com
 +.italyvisacenterd.com
 +.itamt.com
 +.itangbole.com
++.itangsoft.com
 +.itangyuan.com
 +.itanlian.com
 +.itany.com
@@ -55390,6 +55412,7 @@ xtratime.qcomgeo2.com
 +.jfchinese.com
 +.jfcjt.com
 +.jfcoo.com
++.jfcoop.com
 +.jfdaily.com
 +.jfedu.net
 +.jfgjwl.com
@@ -60951,7 +60974,6 @@ xtratime.qcomgeo2.com
 +.kschuangku.com
 +.kscloudapi.com
 +.ksco.cc
-+.kscord.com
 +.ksdedu.com
 +.ksdhgy.com
 +.ksecit.com
@@ -68629,6 +68651,7 @@ xtratime.qcomgeo2.com
 +.molimoli.tech
 +.moliplayer.com
 +.molipy.com
++.moliranran.com
 +.molishe.com
 +.molixiangce.com
 +.mollervilla.com
@@ -69471,6 +69494,7 @@ xtratime.qcomgeo2.com
 +.myfans.cc
 +.myfdmg.com
 +.myfhospital.com
++.myfilm.cc
 +.myfrfr.com
 +.myfun7.com
 +.myfund.com
@@ -72651,6 +72675,7 @@ xtratime.qcomgeo2.com
 +.oemsocuat.download.prss.microsoft.com
 +.oemssl.cn.cdn.cloudflare.net
 +.oemxitong.com
++.oend.net
 +.oeob.net
 +.oepkgs.net
 +.oepkgs.org
@@ -73014,6 +73039,7 @@ xtratime.qcomgeo2.com
 +.onthetrip.com
 +.onthink.com
 +.onwaf.com
++.onwaytech.com
 +.onwear.net
 +.onwork.com
 +.onwsw.com
@@ -76817,6 +76843,7 @@ xtratime.qcomgeo2.com
 +.qingtian16265.com
 +.qingtiancms.net
 +.qingting123.com
++.qingtingai.net
 +.qingtingfm.com
 +.qingtingip.com
 +.qingtingjh.com
@@ -94875,6 +94902,7 @@ xtratime.qcomgeo2.com
 +.vt-pharm.com
 +.vtache.com
 +.vtcsy.com
++.vtdd.vip
 +.vteamgroup.com
 +.vtears.com
 +.vtepai.com
@@ -95367,6 +95395,7 @@ xtratime.qcomgeo2.com
 +.wanh5.com
 +.wanhea.com
 +.wanhebin.com
++.wanhengtech.com
 +.wanheweb.com
 +.wanhi.com
 +.wanhongbao.com
@@ -98178,6 +98207,7 @@ xtratime.qcomgeo2.com
 +.wsipv6.com
 +.wsisp.com
 +.wsisp.net
++.wsjqnmmrmv.world
 +.wsjtxia.com
 +.wskam.com
 +.wskj16818.xyz
@@ -99467,6 +99497,7 @@ xtratime.qcomgeo2.com
 +.xdj-sz.com
 +.xdja.com
 +.xdjcgs.com
++.xdjk.net
 +.xdju.com
 +.xdjunxiao.com
 +.xdjy369.com
@@ -101655,6 +101686,7 @@ xtratime.qcomgeo2.com
 +.xloveyoux.com
 +.xlpai.com
 +.xlpan.com
++.xlps.site
 +.xlqeai.com
 +.xlqzh.com
 +.xlread.com
@@ -108823,6 +108855,7 @@ xtratime.qcomgeo2.com
 +.zggua.com
 +.zggwy.com
 +.zggwy.org
++.zggx100.com
 +.zggxgp.com
 +.zggxhj.com
 +.zggxlbc.com
@@ -109654,6 +109687,7 @@ xtratime.qcomgeo2.com
 +.zhihuiep.com
 +.zhihuifangdong.net
 +.zhihuihongze.com
++.zhihuihub.com
 +.zhihuihuiwu.com
 +.zhihuihutong.com
 +.zhihuiji.com
